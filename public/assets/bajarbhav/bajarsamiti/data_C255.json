@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "5110",
+        "modal_price": "5110",
+        "avg_price": "5110"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    }
+]

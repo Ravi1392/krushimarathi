@@ -1,0 +1,692 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "80",
+        "max_price": "1500",
+        "modal_price": "5000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "31",
+        "max_price": "1500",
+        "modal_price": "4000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "750",
+        "max_price": "2500",
+        "modal_price": "5000",
+        "avg_price": "3750"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सांगली -फळे भाजीपाला",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "2000",
+        "modal_price": "4500",
+        "avg_price": "3250"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "189",
+        "max_price": "3000",
+        "modal_price": "5000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नागपूर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "2500",
+        "modal_price": "2800",
+        "avg_price": "2725"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नागपूर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "2000",
+        "modal_price": "2300",
+        "avg_price": "2225"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नागपूर",
+        "variety": "नं. ३",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "1200",
+        "modal_price": "1400",
+        "avg_price": "1350"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "1400",
+        "modal_price": "3200",
+        "avg_price": "2300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "400",
+        "max_price": "2500",
+        "modal_price": "5000",
+        "avg_price": "3750"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "7000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "1500",
+        "modal_price": "4200",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "42",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नागपूर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "2500",
+        "modal_price": "2800",
+        "avg_price": "2725"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नागपूर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "2000",
+        "modal_price": "2300",
+        "avg_price": "2225"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नागपूर",
+        "variety": "नं. ३",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "1200",
+        "modal_price": "1400",
+        "avg_price": "1350"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "1500",
+        "modal_price": "5000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "31",
+        "max_price": "2000",
+        "modal_price": "3500",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1699",
+        "max_price": "2500",
+        "modal_price": "6000",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "230",
+        "max_price": "3000",
+        "modal_price": "5000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नागपूर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "200",
+        "max_price": "3000",
+        "modal_price": "3500",
+        "avg_price": "3375"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नागपूर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "2200",
+        "modal_price": "2500",
+        "avg_price": "2425"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नागपूर",
+        "variety": "नं. ३",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "1200",
+        "modal_price": "1400",
+        "avg_price": "1350"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "जळगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "21",
+        "max_price": "1500",
+        "modal_price": "3500",
+        "avg_price": "2500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "330",
+        "max_price": "2500",
+        "modal_price": "6000",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "6000",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "1200",
+        "modal_price": "4000",
+        "avg_price": "2500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सांगली -फळे भाजीपाला",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "2000",
+        "modal_price": "4500",
+        "avg_price": "3250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "140",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "1000",
+        "modal_price": "5000",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "1500",
+        "modal_price": "5000",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "2400",
+        "modal_price": "5200",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अकलुज",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "5000",
+        "modal_price": "7500",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "334",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "3500",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "26",
+        "max_price": "1300",
+        "modal_price": "4700",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "5000",
+        "modal_price": "7000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "1000",
+        "modal_price": "4500",
+        "avg_price": "2500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "3500",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नागपूर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "2500",
+        "modal_price": "2800",
+        "avg_price": "2725"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "1500",
+        "modal_price": "5000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "540",
+        "max_price": "2500",
+        "modal_price": "6000",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "श्रीरामपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "1500",
+        "modal_price": "2500",
+        "avg_price": "2000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "5500",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "1500",
+        "modal_price": "4500",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सांगली -फळे भाजीपाला",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "2000",
+        "modal_price": "4000",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "325",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नागपूर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "2500",
+        "modal_price": "2800",
+        "avg_price": "2725"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नागपूर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "2000",
+        "modal_price": "2300",
+        "avg_price": "2225"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नागपूर",
+        "variety": "नं. ३",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "1200",
+        "modal_price": "1400",
+        "avg_price": "1350"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "1200",
+        "modal_price": "4400",
+        "avg_price": "2800"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "630",
+        "max_price": "2500",
+        "modal_price": "6000",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "5500",
+        "modal_price": "8000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "1000",
+        "modal_price": "1000",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "192",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "3500",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नागपूर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "2500",
+        "modal_price": "2800",
+        "avg_price": "2725"
+    }
+]

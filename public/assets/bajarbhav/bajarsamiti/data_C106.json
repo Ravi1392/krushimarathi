@@ -1,0 +1,82 @@
+[
+    {
+        "date": "2025-07-01",
+        "apmc_name": "वांगी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "1000",
+        "modal_price": "4000",
+        "avg_price": "2350"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मिरची (हिरवी)",
+        "variety": "ज्वाला",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "2000",
+        "modal_price": "5000",
+        "avg_price": "3750"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कांदा",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "1838",
+        "max_price": "200",
+        "modal_price": "1821",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "टोमॅटो",
+        "variety": "वैशाली",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "500",
+        "modal_price": "1250",
+        "avg_price": "758"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मिरची (हिरवी)",
+        "variety": "ज्वाला",
+        "unit": "क्विंटल",
+        "min_price": "17",
+        "max_price": "2000",
+        "modal_price": "3000",
+        "avg_price": "2700"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "टोमॅटो",
+        "variety": "वैशाली",
+        "unit": "क्विंटल",
+        "min_price": "55",
+        "max_price": "500",
+        "modal_price": "3750",
+        "avg_price": "843"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मिरची (हिरवी)",
+        "variety": "ज्वाला",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "2000",
+        "modal_price": "4000",
+        "avg_price": "3331"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "टोमॅटो",
+        "variety": "वैशाली",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "768"
+    }
+]

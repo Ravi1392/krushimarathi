@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "5650",
+        "modal_price": "5750",
+        "avg_price": "5700"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मका",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "2410",
+        "modal_price": "2440",
+        "avg_price": "2430"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गहू",
+        "variety": "२१८९",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "2450",
+        "modal_price": "2650",
+        "avg_price": "2550"
+    }
+]

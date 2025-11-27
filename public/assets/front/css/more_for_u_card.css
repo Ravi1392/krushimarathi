@@ -1,0 +1,141 @@
+.more-for-you-custom-section {
+    border-radius: 0.8rem;
+    background-color: #e9ecef;
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    margin-top: 20px;
+}
+
+.more-for-you-cards-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.more-for-you-card-custom {
+    flex: 1 1 200px;
+    max-width: 280px;
+    min-width: 180px;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.more-for-you-card-custom:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-body-custom {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.icon-wrapper-custom {
+    color: #28a745;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-circle-wrapper-custom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 50%;
+    border: 2px solid #4CAF50;
+    flex-shrink: 0;
+}
+
+.svg-icon-custom {
+    width: 2.5rem;
+    height: 2.5rem;
+    fill: currentColor;
+}
+
+.card-title-custom {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #4CAF50;
+    margin-bottom: 1rem;
+    flex-grow: 1;
+}
+
+.btn-custom {
+    background-color: #FFC107;
+    border-color: #FFC107;
+    color: #333;
+    font-weight: 600;
+    padding: 0.6rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    display: inline-block;
+    width: auto;
+}
+
+.btn-custom:hover {
+    background-color: #FFA000;
+    border-color: #FFA000;
+    color: #333;
+}
+
+@media (max-width: 768px) {
+    .more-for-you-cards-wrapper {
+        gap: 1rem;
+    }
+    .more-for-you-card-custom {
+        flex: 1 1 calc(50% - 1rem);
+        max-width: calc(50% - 1rem);
+    }
+    .svg-icon-custom {
+        width: 2rem;
+        height: 2rem;
+    }
+    .icon-circle-wrapper-custom {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+    .card-title-custom {
+        font-size: 1.15rem;
+    }
+    .card-body-custom {
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .more-for-you-cards-wrapper {
+        gap: 0.75rem;
+    }
+    .more-for-you-card-custom {
+        flex: 1 1 calc(50% - 0.75rem);
+        max-width: calc(50% - 0.75rem);
+        min-width: unset;
+    }
+    .more-for-you-custom-section {
+        padding: 1.5rem 0.5rem;
+    }
+
+    .card-body-custom {
+        padding: 0.5rem;
+    }
+}

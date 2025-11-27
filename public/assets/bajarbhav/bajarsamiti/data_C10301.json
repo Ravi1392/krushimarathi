@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-06-29",
+        "apmc_name": "मका",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "510",
+        "max_price": "1500",
+        "modal_price": "2311",
+        "avg_price": "2100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मका",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "510",
+        "max_price": "1500",
+        "modal_price": "2311",
+        "avg_price": "2100"
+    }
+]

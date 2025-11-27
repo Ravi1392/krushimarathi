@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "एस.बी ११",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "4300",
+        "modal_price": "5550",
+        "avg_price": "5400"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "4220",
+        "modal_price": "4220",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "राजापुरी",
+        "unit": "क्विंटल",
+        "min_price": "51",
+        "max_price": "10750",
+        "modal_price": "11900",
+        "avg_price": "11000"
+    }
+]

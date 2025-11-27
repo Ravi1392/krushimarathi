@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हरभरा",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5300",
+        "modal_price": "5300",
+        "avg_price": "5300"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मका",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "1900",
+        "modal_price": "2370",
+        "avg_price": "2250"
+    }
+]

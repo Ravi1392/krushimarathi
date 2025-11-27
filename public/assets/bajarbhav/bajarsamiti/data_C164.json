@@ -1,0 +1,142 @@
+[
+    {
+        "date": "2025-07-04",
+        "apmc_name": "मका",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "24",
+        "max_price": "2200",
+        "modal_price": "2300",
+        "avg_price": "2260"
+    },
+    {
+        "date": "2025-07-04",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "24",
+        "max_price": "4860",
+        "modal_price": "5000",
+        "avg_price": "4950"
+    },
+    {
+        "date": "2025-07-04",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "2850",
+        "modal_price": "3320",
+        "avg_price": "3170"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बेदाणा",
+        "variety": "हिरवा",
+        "unit": "क्विंटल",
+        "min_price": "5814",
+        "max_price": "28500",
+        "modal_price": "39200",
+        "avg_price": "32600"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बेदाणा",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "890",
+        "max_price": "6000",
+        "modal_price": "9500",
+        "avg_price": "7600"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बेदाणा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1258",
+        "max_price": "22600",
+        "modal_price": "27000",
+        "avg_price": "23800"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "ज्वारी",
+        "variety": "शाळू",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "2860",
+        "modal_price": "3340",
+        "avg_price": "3170"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "26",
+        "max_price": "2670",
+        "modal_price": "3640",
+        "avg_price": "3080"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बेदाणा",
+        "variety": "हिरवा",
+        "unit": "क्विंटल",
+        "min_price": "5120",
+        "max_price": "21700",
+        "modal_price": "45000",
+        "avg_price": "29500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बेदाणा",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "183",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "12000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बेदाणा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "840",
+        "max_price": "19000",
+        "modal_price": "30500",
+        "avg_price": "28000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बेदाणा",
+        "variety": "हिरवा",
+        "unit": "क्विंटल",
+        "min_price": "6470",
+        "max_price": "24700",
+        "modal_price": "55200",
+        "avg_price": "29000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बेदाणा",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "214",
+        "max_price": "11000",
+        "modal_price": "14000",
+        "avg_price": "12000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बेदाणा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1460",
+        "max_price": "20200",
+        "modal_price": "30200",
+        "avg_price": "26500"
+    }
+]

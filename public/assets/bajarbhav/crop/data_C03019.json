@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे -पिंपरी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "800",
+        "max_price": "6",
+        "modal_price": "8",
+        "avg_price": "7"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "7500",
+        "modal_price": "7500",
+        "avg_price": "7500"
+    }
+]

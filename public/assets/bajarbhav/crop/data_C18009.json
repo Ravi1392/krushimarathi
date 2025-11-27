@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "7000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "5000",
+        "modal_price": "7000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    }
+]

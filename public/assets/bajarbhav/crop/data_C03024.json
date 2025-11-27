@@ -1,0 +1,132 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुंबई",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "7500",
+        "modal_price": "11000",
+        "avg_price": "9700"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8800",
+        "modal_price": "9800",
+        "avg_price": "9200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुंबई",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "368",
+        "max_price": "7500",
+        "modal_price": "11000",
+        "avg_price": "10000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8800",
+        "modal_price": "9800",
+        "avg_price": "9200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुंबई",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "115",
+        "max_price": "7500",
+        "modal_price": "11000",
+        "avg_price": "9700"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8800",
+        "modal_price": "9600",
+        "avg_price": "9200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8800",
+        "modal_price": "9600",
+        "avg_price": "9200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8800",
+        "modal_price": "9600",
+        "avg_price": "9200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "153",
+        "max_price": "7500",
+        "modal_price": "11000",
+        "avg_price": "9700"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "शिरुर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "3000",
+        "modal_price": "6000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8800",
+        "modal_price": "9600",
+        "avg_price": "9200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "117",
+        "max_price": "7500",
+        "modal_price": "11000",
+        "avg_price": "9700"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "8800",
+        "modal_price": "9600",
+        "avg_price": "9200"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "200",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "320",
+        "max_price": "1300",
+        "modal_price": "1600",
+        "avg_price": "1400"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "27000",
+        "max_price": "2600",
+        "modal_price": "4800",
+        "avg_price": "3700"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "320",
+        "max_price": "1300",
+        "modal_price": "1600",
+        "avg_price": "1400"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जालना",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "116",
+        "max_price": "1100",
+        "modal_price": "4700",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "800",
+        "max_price": "1100",
+        "modal_price": "1300",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "छत्रपती संभाजीनगर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "18000",
+        "max_price": "2900",
+        "modal_price": "4500",
+        "avg_price": "3700"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "840",
+        "max_price": "600",
+        "modal_price": "1600",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "400",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1420",
+        "max_price": "1000",
+        "modal_price": "1600",
+        "avg_price": "1300"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "200",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "420",
+        "max_price": "1000",
+        "modal_price": "1600",
+        "avg_price": "1300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नाशिक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "200",
+        "max_price": "4000",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "800",
+        "max_price": "1000",
+        "modal_price": "1500",
+        "avg_price": "1200"
+    }
+]

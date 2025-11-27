@@ -1,0 +1,242 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "456",
+        "max_price": "11000",
+        "modal_price": "14000",
+        "avg_price": "13250"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "231",
+        "max_price": "14100",
+        "modal_price": "28100",
+        "avg_price": "21100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "धुळे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "320",
+        "max_price": "11000",
+        "modal_price": "17500",
+        "avg_price": "14250"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "723",
+        "max_price": "11000",
+        "modal_price": "14000",
+        "avg_price": "13250"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "14100",
+        "modal_price": "28100",
+        "avg_price": "21100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जालना",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "2000",
+        "modal_price": "13200",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "220",
+        "max_price": "11000",
+        "modal_price": "17500",
+        "avg_price": "14250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "297",
+        "max_price": "11000",
+        "modal_price": "14000",
+        "avg_price": "13250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "534",
+        "max_price": "14100",
+        "modal_price": "28100",
+        "avg_price": "21100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "5000",
+        "modal_price": "13500",
+        "avg_price": "9250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "200",
+        "max_price": "11000",
+        "modal_price": "17000",
+        "avg_price": "14000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अजनगाव सुर्जी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "7000",
+        "modal_price": "13000",
+        "avg_price": "11000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अकलुज",
+        "variety": "ज्वाला",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "2500",
+        "modal_price": "3500",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "176",
+        "max_price": "11000",
+        "modal_price": "17000",
+        "avg_price": "14000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "भिवापूर",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "5000",
+        "modal_price": "10000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "312",
+        "max_price": "11000",
+        "modal_price": "17500",
+        "avg_price": "14250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "274",
+        "max_price": "11000",
+        "modal_price": "14000",
+        "avg_price": "13250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "527",
+        "max_price": "14100",
+        "modal_price": "28100",
+        "avg_price": "21100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "रामटेक",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "6000",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "4800",
+        "modal_price": "12000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "364",
+        "max_price": "11000",
+        "modal_price": "17500",
+        "avg_price": "14250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "769",
+        "max_price": "11000",
+        "modal_price": "14000",
+        "avg_price": "13250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "234",
+        "max_price": "14100",
+        "modal_price": "28100",
+        "avg_price": "21100"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बाजरी",
+        "variety": "हिरवी",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "2200",
+        "modal_price": "3000",
+        "avg_price": "2775"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मका",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "1800",
+        "modal_price": "2050",
+        "avg_price": "2000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गहू",
+        "variety": "२१८९",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "2400",
+        "modal_price": "2850",
+        "avg_price": "2650"
+    }
+]

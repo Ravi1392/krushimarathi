@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "4000",
+        "modal_price": "4600",
+        "avg_price": "4400"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "289",
+        "max_price": "6000",
+        "modal_price": "10000",
+        "avg_price": "9200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "465",
+        "max_price": "4000",
+        "modal_price": "4600",
+        "avg_price": "4400"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1084",
+        "max_price": "4000",
+        "modal_price": "4600",
+        "avg_price": "4400"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "4000",
+        "modal_price": "4600",
+        "avg_price": "4400"
+    }
+]

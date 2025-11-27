@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-07-04",
+        "apmc_name": "तांदूळ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "340",
+        "max_price": "3560",
+        "modal_price": "5350",
+        "avg_price": "4450"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तांदूळ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "375",
+        "max_price": "3800",
+        "modal_price": "4250",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तांदूळ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "375",
+        "max_price": "3150",
+        "modal_price": "4960",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तांदूळ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "375",
+        "max_price": "3800",
+        "modal_price": "4750",
+        "avg_price": "4450"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तांदूळ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "350",
+        "max_price": "3250",
+        "modal_price": "4250",
+        "avg_price": "3890"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तांदूळ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "370",
+        "max_price": "3450",
+        "modal_price": "5350",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तांदूळ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "395",
+        "max_price": "3450",
+        "modal_price": "4960",
+        "avg_price": "4260"
+    }
+]

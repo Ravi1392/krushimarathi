@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मका",
+        "variety": "पिवळी",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "2000",
+        "modal_price": "2200",
+        "avg_price": "2100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "4000",
+        "modal_price": "4250",
+        "avg_price": "4100"
+    }
+]

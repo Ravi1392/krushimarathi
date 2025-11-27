@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "6080",
+        "modal_price": "6400",
+        "avg_price": "6250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तील",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "6600",
+        "modal_price": "8600",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "140",
+        "max_price": "4050",
+        "modal_price": "4390",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हरभरा",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "26",
+        "max_price": "5200",
+        "modal_price": "5560",
+        "avg_price": "5400"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "130",
+        "max_price": "5765",
+        "modal_price": "6505",
+        "avg_price": "6200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तील",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "6900",
+        "modal_price": "8700",
+        "avg_price": "7600"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "140",
+        "max_price": "3810",
+        "modal_price": "4390",
+        "avg_price": "4250"
+    }
+]

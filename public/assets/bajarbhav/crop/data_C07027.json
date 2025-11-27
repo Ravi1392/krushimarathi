@@ -1,0 +1,152 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "104",
+        "max_price": "5000",
+        "modal_price": "8000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "7000",
+        "modal_price": "10000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "26",
+        "max_price": "5000",
+        "modal_price": "8000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "145",
+        "max_price": "7000",
+        "modal_price": "10000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "7000",
+        "modal_price": "7000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "64",
+        "max_price": "3000",
+        "modal_price": "10000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "7000",
+        "modal_price": "7000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "1000",
+        "modal_price": "9000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "177",
+        "max_price": "5000",
+        "modal_price": "8000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "7000",
+        "modal_price": "7000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "7000",
+        "modal_price": "7000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "78",
+        "max_price": "4000",
+        "modal_price": "8000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "98",
+        "max_price": "6000",
+        "modal_price": "10000",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "7000",
+        "modal_price": "7000",
+        "avg_price": "7000"
+    }
+]

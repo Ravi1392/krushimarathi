@@ -1,0 +1,672 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "8130",
+        "max_price": "5",
+        "modal_price": "20",
+        "avg_price": "10"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "50",
+        "max_price": "20",
+        "modal_price": "20",
+        "avg_price": "20"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18",
+        "modal_price": "20",
+        "avg_price": "19"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "481",
+        "max_price": "800",
+        "modal_price": "1500",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "6715",
+        "max_price": "6",
+        "modal_price": "20",
+        "avg_price": "13"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "2000",
+        "max_price": "20",
+        "modal_price": "20",
+        "avg_price": "20"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "191",
+        "max_price": "800",
+        "modal_price": "1400",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भुसावळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "8000",
+        "modal_price": "8000",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कामठी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "3500",
+        "modal_price": "4500",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "2000",
+        "max_price": "800",
+        "modal_price": "1200",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "7500",
+        "max_price": "8",
+        "modal_price": "20",
+        "avg_price": "10"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18",
+        "modal_price": "20",
+        "avg_price": "19"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "51",
+        "max_price": "1200",
+        "modal_price": "1200",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नाशिक",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "57",
+        "max_price": "2000",
+        "modal_price": "8000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नाशिक - देवळाली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "1400",
+        "modal_price": "2100",
+        "avg_price": "1900"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "जळगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "10297",
+        "max_price": "5",
+        "modal_price": "18",
+        "avg_price": "11"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "182",
+        "max_price": "1000",
+        "modal_price": "1400",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भुसावळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "8000",
+        "modal_price": "8000",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "1600",
+        "max_price": "1000",
+        "modal_price": "1500",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "7250",
+        "max_price": "8",
+        "modal_price": "20",
+        "avg_price": "15"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "20",
+        "modal_price": "50",
+        "avg_price": "30"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "282",
+        "max_price": "1200",
+        "modal_price": "1400",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नाशिक",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "49",
+        "max_price": "2000",
+        "modal_price": "6000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नाशिक - देवळाली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "1300",
+        "modal_price": "2100",
+        "avg_price": "1950"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जळगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3000",
+        "modal_price": "3000",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "6620",
+        "max_price": "6",
+        "modal_price": "16",
+        "avg_price": "11"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "2400",
+        "max_price": "10",
+        "modal_price": "15",
+        "avg_price": "13"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "156",
+        "max_price": "1400",
+        "modal_price": "1600",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "1500",
+        "max_price": "1000",
+        "modal_price": "1500",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "8750",
+        "max_price": "8",
+        "modal_price": "20",
+        "avg_price": "15"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "20",
+        "modal_price": "70",
+        "avg_price": "45"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "270",
+        "max_price": "1300",
+        "modal_price": "1300",
+        "avg_price": "1300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नाशिक",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "52",
+        "max_price": "2000",
+        "modal_price": "5100",
+        "avg_price": "3550"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नाशिक - देवळाली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "1350",
+        "modal_price": "2050",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "जळगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "8850",
+        "max_price": "5",
+        "modal_price": "18",
+        "avg_price": "11"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3500",
+        "max_price": "15",
+        "modal_price": "20",
+        "avg_price": "18"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "11700",
+        "max_price": "7",
+        "modal_price": "20",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "नाशिक",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "48",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "19050",
+        "max_price": "10",
+        "modal_price": "16",
+        "avg_price": "13"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "800",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "9850",
+        "max_price": "7",
+        "modal_price": "28",
+        "avg_price": "16"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "444",
+        "max_price": "1000",
+        "modal_price": "1200",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नाशिक",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "42",
+        "max_price": "1500",
+        "modal_price": "5000",
+        "avg_price": "3200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नाशिक - देवळाली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "1250",
+        "modal_price": "1950",
+        "avg_price": "1750"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1100",
+        "max_price": "15",
+        "modal_price": "15",
+        "avg_price": "15"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "1300",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "10300",
+        "max_price": "10",
+        "modal_price": "25",
+        "avg_price": "15"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "40",
+        "modal_price": "60",
+        "avg_price": "50"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "787",
+        "max_price": "1000",
+        "modal_price": "1400",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नाशिक",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "62",
+        "max_price": "1000",
+        "modal_price": "5600",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नाशिक - देवळाली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "1050",
+        "modal_price": "2000",
+        "avg_price": "1750"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "12478",
+        "max_price": "5",
+        "modal_price": "16",
+        "avg_price": "10"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1500",
+        "max_price": "15",
+        "modal_price": "15",
+        "avg_price": "15"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "254",
+        "max_price": "600",
+        "modal_price": "1200",
+        "avg_price": "900"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "10400",
+        "max_price": "10",
+        "modal_price": "20",
+        "avg_price": "14"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "120",
+        "max_price": "20",
+        "modal_price": "25",
+        "avg_price": "22"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "40",
+        "modal_price": "60",
+        "avg_price": "50"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "735",
+        "max_price": "500",
+        "modal_price": "1200",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नाशिक",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "58",
+        "max_price": "2500",
+        "modal_price": "6500",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नाशिक - देवळाली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "29",
+        "max_price": "1350",
+        "modal_price": "2050",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "जळगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3000",
+        "modal_price": "3000",
+        "avg_price": "3000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "10660",
+        "max_price": "6",
+        "modal_price": "20",
+        "avg_price": "13"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1000",
+        "max_price": "15",
+        "modal_price": "15",
+        "avg_price": "15"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "800",
+        "modal_price": "1200",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "बारामती-जळोची",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "1600",
+        "max_price": "1000",
+        "modal_price": "1500",
+        "avg_price": "1200"
+    }
+]

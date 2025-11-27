@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तुमसर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "2",
+        "max_price": "5211",
+        "modal_price": "5211",
+        "avg_price": "5211"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "तुमसर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "5200",
+        "modal_price": "5200",
+        "avg_price": "5200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तुमसर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5200",
+        "modal_price": "5200",
+        "avg_price": "5200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "तुमसर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "5201",
+        "modal_price": "5201",
+        "avg_price": "5201"
+    }
+]

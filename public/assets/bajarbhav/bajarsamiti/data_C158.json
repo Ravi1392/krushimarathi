@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बैल",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "14",
+        "max_price": "10000",
+        "modal_price": "60000",
+        "avg_price": "30000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गाय",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "18",
+        "max_price": "15000",
+        "modal_price": "90000",
+        "avg_price": "30000"
+    }
+]

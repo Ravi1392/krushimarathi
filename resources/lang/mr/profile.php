@@ -1,0 +1,63 @@
+<?php
+
+return [
+    'personal_info'        => 'वैयक्तिक माहिती',
+    'first_name'           => 'पहिले नाव',
+    'middle_name'          => 'मधले नाव',
+    'last_name'            => 'आडनाव',
+    'gender'               => 'लिंग',
+    'male'                 => 'पुरुष',
+    'female'               => 'महिला',
+    'other'                => 'इतर',
+    'mobile'               => 'मोबाईल क्रमांक',
+    'email'                => 'ईमेल पत्ता',
+    'business_name'        => 'व्यवसायाचे नाव',
+    'business_type'        => 'व्यवसायाचा प्रकार',
+    'address'              => 'पत्ता',
+    'state'                => 'राज्य निवडा',
+    'district'             => 'जिल्हा निवडा',
+    'taluka'               => 'उपविभाग (तालुका) निवडा',
+    'village'              => 'गाव निवडा',
+    'pincode'              => 'पिनकोड',
+    'profile_desc'         => 'प्रोफाइल वर्णन',
+    'upload_image'         => 'प्रोफाइल इमेज अपलोड करा',
+    'upload_note'          => 'फॉरमॅट्स: png, jpg. कमाल साईझ 2Mb',
+    'preview'              => 'पूर्वदृश्य',
+    'change_password'      => 'पासवर्ड बदला',
+    'old_password'         => 'जुना पासवर्ड',
+    'new_password'         => 'नवीन पासवर्ड ',
+    'confirm_password'     => 'पासवर्ड पुन्हा टाका',
+    
+
+    'validation' => [
+        'name_required' => 'कृपया तुमचं नाव टाका.',
+        'last_name_required' => 'कृपया आडनाव टाका.',
+        'business_type_required' => 'कृपया व्यवसायाचा प्रकार निवडा.',
+        'phone_required' => 'कृपया मोबाईल क्रमांक टाका.',
+        'phone_remote' => 'मोबाईल नंबर अमान्य आहे किंवा आधीपासून अस्तित्वात आहे.',
+        'email_required' => 'कृपया ईमेल पत्ता टाका.',
+        'email_remote' => 'ईमेल अमान्य आहे किंवा आधीपासून अस्तित्वात आहे.',
+
+        'old_pass_required' => 'कृपया जुना पासवर्ड टाका.',
+        'new_pass_required' => 'कृपया नवीन पासवर्ड टाका.',
+        'new_pass_min' => 'पासवर्ड किमान 6 अक्षरांचा असावा.',
+        'confirm_pass_required' => 'कृपया नवीन पासवर्ड पुन्हा टाका.',
+        'confirm_pass_equal' => 'पासवर्ड जुळले नाहीत.',
+    ],
+
+    'placeholder' => [
+        'first_name' => 'तुमचं नाव टाका',
+        'middle_name' => 'तुमचं मधले नाव टाका',
+        'last_name' => 'तुमचं आडनाव टाका',
+        'mobile' => 'मोबाईल नंबर टाका',
+        'email' => 'ईमेल पत्ता टाका',
+        'business_name' => 'व्यवसायाचे नाव टाका',
+        'address' => 'पत्ता टाका',
+        'pincode' => 'पिनकोड टाका',
+        'profile_desc' => 'संक्षिप्त वर्णन',
+        'old_password' => 'जुना पासवर्ड टाका',
+        'new_password' => 'नवीन पासवर्ड टाका',
+        'confirm_password' => 'पासवर्ड पुन्हा टाका',
+    ],
+
+];

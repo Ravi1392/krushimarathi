@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-06-27",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "ओली",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "4170",
+        "modal_price": "4905",
+        "avg_price": "4700"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "6300",
+        "modal_price": "6365",
+        "avg_price": "6350"
+    }
+]

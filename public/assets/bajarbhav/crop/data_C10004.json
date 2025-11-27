@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "बार्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "43",
+        "max_price": "3700",
+        "modal_price": "3700",
+        "avg_price": "3700"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3675",
+        "modal_price": "3675",
+        "avg_price": "3675"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "3600",
+        "modal_price": "3700",
+        "avg_price": "3650"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3675",
+        "modal_price": "3675",
+        "avg_price": "3675"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "3675",
+        "modal_price": "3675",
+        "avg_price": "3675"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "3600",
+        "modal_price": "3700",
+        "avg_price": "3650"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-07-04",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "4000",
+        "max_price": "300",
+        "modal_price": "1504",
+        "avg_price": "1275"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "609",
+        "max_price": "200",
+        "modal_price": "1480",
+        "avg_price": "1325"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "4685",
+        "max_price": "250",
+        "modal_price": "1600",
+        "avg_price": "1300"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "2303",
+        "max_price": "300",
+        "modal_price": "1456",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "5976",
+        "max_price": "300",
+        "modal_price": "1500",
+        "avg_price": "1225"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "5127",
+        "max_price": "350",
+        "modal_price": "1451",
+        "avg_price": "1250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "4970",
+        "max_price": "350",
+        "modal_price": "1601",
+        "avg_price": "1300"
+    }
+]

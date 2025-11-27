@@ -1,0 +1,352 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "160",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "500",
+        "modal_price": "2000",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "83",
+        "max_price": "1500",
+        "modal_price": "8000",
+        "avg_price": "4750"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "360",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नागपूर",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "450",
+        "modal_price": "550",
+        "avg_price": "525"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "500",
+        "modal_price": "2000",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "500",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नागपूर",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "450",
+        "modal_price": "550",
+        "avg_price": "525"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "500",
+        "modal_price": "2000",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "67",
+        "max_price": "1500",
+        "modal_price": "7000",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "यावल",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "5750",
+        "max_price": "2025",
+        "modal_price": "2225",
+        "avg_price": "2035"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "400",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अजनगाव सुर्जी",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "700",
+        "modal_price": "1100",
+        "avg_price": "900"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "17",
+        "max_price": "500",
+        "modal_price": "1500",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "59",
+        "max_price": "1500",
+        "modal_price": "6000",
+        "avg_price": "3750"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "यावल",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "7000",
+        "max_price": "2000",
+        "modal_price": "2200",
+        "avg_price": "2010"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "1500",
+        "modal_price": "2000",
+        "avg_price": "1750"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "420",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "47",
+        "max_price": "500",
+        "modal_price": "1500",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "54",
+        "max_price": "1500",
+        "modal_price": "6000",
+        "avg_price": "3750"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "यावल",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "3780",
+        "max_price": "1975",
+        "modal_price": "2175",
+        "avg_price": "1985"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "410",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नागपूर",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "450",
+        "modal_price": "550",
+        "avg_price": "525"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "2000",
+        "modal_price": "6000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "यावल",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "4495",
+        "max_price": "1975",
+        "modal_price": "2175",
+        "avg_price": "1985"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "270",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नागपूर",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "34",
+        "max_price": "450",
+        "modal_price": "550",
+        "avg_price": "525"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "500",
+        "modal_price": "1500",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "66",
+        "max_price": "2000",
+        "modal_price": "6000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "यावल",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "2400",
+        "max_price": "1975",
+        "modal_price": "2175",
+        "avg_price": "1985"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नाशिक",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "320",
+        "max_price": "900",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नागपूर",
+        "variety": "भुसावळी",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "450",
+        "modal_price": "550",
+        "avg_price": "525"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "500",
+        "modal_price": "1500",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मोशी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "64",
+        "max_price": "1500",
+        "modal_price": "6000",
+        "avg_price": "3750"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "यावल",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "6075",
+        "max_price": "2025",
+        "modal_price": "2225",
+        "avg_price": "2035"
+    }
+]

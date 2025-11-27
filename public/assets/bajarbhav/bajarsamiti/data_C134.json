@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बकरा",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "1575",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बकरा",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "600",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बकरा",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2970",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    }
+]

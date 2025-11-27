@@ -1,0 +1,152 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "470",
+        "max_price": "9",
+        "modal_price": "15",
+        "avg_price": "10"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1106",
+        "max_price": "400",
+        "modal_price": "500",
+        "avg_price": "400"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "420",
+        "max_price": "10",
+        "modal_price": "15",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "470",
+        "max_price": "500",
+        "modal_price": "800",
+        "avg_price": "600"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "300",
+        "max_price": "10",
+        "modal_price": "15",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1915",
+        "max_price": "500",
+        "modal_price": "600",
+        "avg_price": "500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "300",
+        "max_price": "10",
+        "modal_price": "15",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1192",
+        "max_price": "400",
+        "modal_price": "600",
+        "avg_price": "500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "200",
+        "max_price": "10",
+        "modal_price": "15",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "400",
+        "max_price": "8",
+        "modal_price": "12",
+        "avg_price": "10"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1603",
+        "max_price": "400",
+        "modal_price": "600",
+        "avg_price": "500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "300",
+        "max_price": "10",
+        "modal_price": "15",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1583",
+        "max_price": "400",
+        "modal_price": "500",
+        "avg_price": "400"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "300",
+        "max_price": "8",
+        "modal_price": "12",
+        "avg_price": "10"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1221",
+        "max_price": "200",
+        "modal_price": "600",
+        "avg_price": "400"
+    }
+]

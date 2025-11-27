@@ -1,0 +1,172 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "1000",
+        "modal_price": "1100",
+        "avg_price": "1050"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "279",
+        "max_price": "7000",
+        "modal_price": "9000",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "रत्नागिरी",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "45",
+        "max_price": "7000",
+        "modal_price": "7500",
+        "avg_price": "7300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "1000",
+        "modal_price": "1100",
+        "avg_price": "1050"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "277",
+        "max_price": "6000",
+        "modal_price": "9000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "रत्नागिरी",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "38",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "7500",
+        "modal_price": "8500",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "128",
+        "max_price": "7000",
+        "modal_price": "9000",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "जुन्नर -ओतूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "3000",
+        "modal_price": "10000",
+        "avg_price": "9000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "8000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "164",
+        "max_price": "6000",
+        "modal_price": "10000",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "रत्नागिरी",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "45",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3000",
+        "modal_price": "3500",
+        "avg_price": "3250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "292",
+        "max_price": "5000",
+        "modal_price": "8000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "रत्नागिरी",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "45",
+        "max_price": "7000",
+        "modal_price": "7500",
+        "avg_price": "7300"
+    }
+]

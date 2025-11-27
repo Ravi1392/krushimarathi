@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "17",
+        "max_price": "5565",
+        "modal_price": "5595",
+        "avg_price": "5580"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "91",
+        "max_price": "6250",
+        "modal_price": "6545",
+        "avg_price": "6449"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "81",
+        "max_price": "2600",
+        "modal_price": "4310",
+        "avg_price": "4039"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "4675",
+        "modal_price": "5500",
+        "avg_price": "5140"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "117",
+        "max_price": "6100",
+        "modal_price": "6580",
+        "avg_price": "6452"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "101",
+        "max_price": "2100",
+        "modal_price": "4330",
+        "avg_price": "3992"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "71",
+        "max_price": "4890",
+        "modal_price": "5590",
+        "avg_price": "5319"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "109",
+        "max_price": "6000",
+        "modal_price": "6610",
+        "avg_price": "6385"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "98",
+        "max_price": "3875",
+        "modal_price": "4310",
+        "avg_price": "4181"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "68",
+        "max_price": "4600",
+        "modal_price": "5595",
+        "avg_price": "5332"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "92",
+        "max_price": "4150",
+        "modal_price": "6585",
+        "avg_price": "6290"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "171",
+        "max_price": "2400",
+        "modal_price": "4320",
+        "avg_price": "3988"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "34",
+        "max_price": "5495",
+        "modal_price": "5495",
+        "avg_price": "5495"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "6435",
+        "modal_price": "6445",
+        "avg_price": "6440"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "84",
+        "max_price": "1855",
+        "modal_price": "4240",
+        "avg_price": "3547"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "4750",
+        "modal_price": "5425",
+        "avg_price": "5222"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "48",
+        "max_price": "4175",
+        "modal_price": "6500",
+        "avg_price": "6075"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "175",
+        "max_price": "2590",
+        "modal_price": "4345",
+        "avg_price": "3918"
+    }
+]

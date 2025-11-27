@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "320",
+        "max_price": "5",
+        "modal_price": "7",
+        "avg_price": "5"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "350",
+        "max_price": "6",
+        "modal_price": "8",
+        "avg_price": "7"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "600",
+        "max_price": "5",
+        "modal_price": "8",
+        "avg_price": "6"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "500",
+        "max_price": "6",
+        "modal_price": "8",
+        "avg_price": "6"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "500",
+        "max_price": "5",
+        "modal_price": "8",
+        "avg_price": "6"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "500",
+        "max_price": "5",
+        "modal_price": "8",
+        "avg_price": "6"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "400",
+        "max_price": "5",
+        "modal_price": "8",
+        "avg_price": "6"
+    }
+]

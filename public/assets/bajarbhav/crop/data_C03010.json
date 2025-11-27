@@ -1,0 +1,82 @@
+[
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "7000",
+        "modal_price": "7500",
+        "avg_price": "7250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "धुळे",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "6000",
+        "modal_price": "6000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "7000",
+        "modal_price": "7500",
+        "avg_price": "7250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "7000",
+        "modal_price": "7500",
+        "avg_price": "7250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "धुळे",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "6000",
+        "modal_price": "6000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "7000",
+        "modal_price": "7500",
+        "avg_price": "7250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "देवळा",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "5500",
+        "modal_price": "5500",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "130",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    }
+]

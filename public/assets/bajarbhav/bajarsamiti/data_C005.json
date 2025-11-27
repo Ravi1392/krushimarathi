@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "उडीद",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "83",
+        "max_price": "6500",
+        "modal_price": "7000",
+        "avg_price": "6800"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "1755",
+        "max_price": "6300",
+        "modal_price": "6881",
+        "avg_price": "6650"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "करडई",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "6030",
+        "modal_price": "8390",
+        "avg_price": "8100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4423",
+        "max_price": "3700",
+        "modal_price": "4360",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "उडीद",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "87",
+        "max_price": "6700",
+        "modal_price": "7100",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "775",
+        "max_price": "5900",
+        "modal_price": "6675",
+        "avg_price": "6600"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2724",
+        "max_price": "4095",
+        "modal_price": "4340",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "उडीद",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "52",
+        "max_price": "6800",
+        "modal_price": "7200",
+        "avg_price": "7100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "2088",
+        "max_price": "6030",
+        "modal_price": "6700",
+        "avg_price": "6550"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5351",
+        "max_price": "3801",
+        "modal_price": "4340",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "उडीद",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "148",
+        "max_price": "6800",
+        "modal_price": "7200",
+        "avg_price": "7100"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "4087",
+        "max_price": "6270",
+        "modal_price": "6560",
+        "avg_price": "6450"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "करडई",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "59",
+        "max_price": "6000",
+        "modal_price": "8100",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "9073",
+        "max_price": "4150",
+        "modal_price": "4380",
+        "avg_price": "4230"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "उडीद",
+        "variety": "काळा",
+        "unit": "क्विंटल",
+        "min_price": "108",
+        "max_price": "6500",
+        "modal_price": "7100",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "3870",
+        "max_price": "6300",
+        "modal_price": "6660",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "करडई",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "38",
+        "max_price": "5940",
+        "modal_price": "7700",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "10914",
+        "max_price": "3831",
+        "modal_price": "4381",
+        "avg_price": "4250"
+    }
+]

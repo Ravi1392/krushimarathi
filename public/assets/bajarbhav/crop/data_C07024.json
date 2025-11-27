@@ -1,0 +1,112 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "403",
+        "max_price": "8000",
+        "modal_price": "12000",
+        "avg_price": "10000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "39",
+        "max_price": "5000",
+        "modal_price": "10000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "39",
+        "max_price": "5000",
+        "modal_price": "10000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "4000",
+        "modal_price": "10000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "210",
+        "max_price": "8000",
+        "modal_price": "12000",
+        "avg_price": "10000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "71",
+        "max_price": "4000",
+        "modal_price": "10000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "63",
+        "max_price": "5000",
+        "modal_price": "10000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "611",
+        "max_price": "8000",
+        "modal_price": "12000",
+        "avg_price": "10000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "4000",
+        "modal_price": "10000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "368",
+        "max_price": "8000",
+        "modal_price": "13000",
+        "avg_price": "10500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "34",
+        "max_price": "4000",
+        "modal_price": "10000",
+        "avg_price": "7000"
+    }
+]

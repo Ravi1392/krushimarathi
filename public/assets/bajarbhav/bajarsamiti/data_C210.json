@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "710",
+        "max_price": "10300",
+        "modal_price": "13100",
+        "avg_price": "11700"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1504",
+        "max_price": "9995",
+        "modal_price": "13355",
+        "avg_price": "11675"
+    }
+]

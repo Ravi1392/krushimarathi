@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भात - धान",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "63",
+        "max_price": "2369",
+        "modal_price": "2450",
+        "avg_price": "2400"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "185",
+        "max_price": "4200",
+        "modal_price": "5800",
+        "avg_price": "5200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "73",
+        "max_price": "4300",
+        "modal_price": "6200",
+        "avg_price": "5200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "78",
+        "max_price": "2369",
+        "modal_price": "2450",
+        "avg_price": "2400"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "265",
+        "max_price": "4200",
+        "modal_price": "5800",
+        "avg_price": "5200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भात - धान",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "57",
+        "max_price": "2369",
+        "modal_price": "2450",
+        "avg_price": "2400"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "174",
+        "max_price": "4200",
+        "modal_price": "6000",
+        "avg_price": "5200"
+    }
+]

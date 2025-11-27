@@ -1,0 +1,82 @@
+[
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बाजरी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "1900",
+        "modal_price": "1950",
+        "avg_price": "1950"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हरभरा",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "5301",
+        "modal_price": "5301",
+        "avg_price": "5301"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मका",
+        "variety": "पिवळी",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "2100",
+        "modal_price": "2300",
+        "avg_price": "2200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तूर",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "5612",
+        "modal_price": "5900",
+        "avg_price": "5700"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "ज्वारी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "2150",
+        "modal_price": "2201",
+        "avg_price": "2200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सुर्यफुल",
+        "variety": "काळे",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4500",
+        "modal_price": "4500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गहू",
+        "variety": "अर्जुन",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "2450",
+        "modal_price": "2450",
+        "avg_price": "2450"
+    }
+]

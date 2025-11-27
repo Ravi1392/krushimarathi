@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बाजरी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "2025",
+        "modal_price": "2401",
+        "avg_price": "2301"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "ज्वारी",
+        "variety": "पांढरी",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "1500",
+        "modal_price": "2401",
+        "avg_price": "2301"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बाजरी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "1600",
+        "modal_price": "2311",
+        "avg_price": "2311"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तूर",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "6280",
+        "avg_price": "6280"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "ज्वारी",
+        "variety": "पांढरी",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "1750",
+        "modal_price": "2425",
+        "avg_price": "2301"
+    }
+]

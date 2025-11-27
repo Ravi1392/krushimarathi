@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "77800",
+        "modal_price": "144800",
+        "avg_price": "111300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "77800",
+        "modal_price": "144800",
+        "avg_price": "111300"
+    }
+]

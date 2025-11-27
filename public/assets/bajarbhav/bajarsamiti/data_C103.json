@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कांदा",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "202",
+        "max_price": "200",
+        "modal_price": "1800",
+        "avg_price": "650"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "डाळींब",
+        "variety": "भगवा",
+        "unit": "क्विंटल",
+        "min_price": "78",
+        "max_price": "1500",
+        "modal_price": "11100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "डाळींब",
+        "variety": "भगवा",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "1000",
+        "modal_price": "9000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "डाळींब",
+        "variety": "भगवा",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "1500",
+        "modal_price": "11100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "डाळींब",
+        "variety": "भगवा",
+        "unit": "क्विंटल",
+        "min_price": "65",
+        "max_price": "1500",
+        "modal_price": "11100",
+        "avg_price": "4000"
+    }
+]

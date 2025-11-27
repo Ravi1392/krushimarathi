@@ -1,0 +1,152 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तांदूळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "540",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "ज्वारी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "3800",
+        "modal_price": "4200",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "600",
+        "max_price": "3200",
+        "modal_price": "3400",
+        "avg_price": "3300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तांदूळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "630",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "660",
+        "max_price": "3000",
+        "modal_price": "3400",
+        "avg_price": "3200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तांदूळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "610",
+        "max_price": "4000",
+        "modal_price": "6000",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "650",
+        "max_price": "3000",
+        "modal_price": "3500",
+        "avg_price": "3250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तांदूळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "630",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "620",
+        "max_price": "3000",
+        "modal_price": "3400",
+        "avg_price": "3200"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "तांदूळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "620",
+        "max_price": "4500",
+        "modal_price": "5500",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "560",
+        "max_price": "3200",
+        "modal_price": "3400",
+        "avg_price": "3300"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तांदूळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "590",
+        "max_price": "3500",
+        "modal_price": "4500",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "580",
+        "max_price": "3000",
+        "modal_price": "3400",
+        "avg_price": "3200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तांदूळ",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "630",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "600",
+        "max_price": "3000",
+        "modal_price": "3400",
+        "avg_price": "3200"
+    }
+]

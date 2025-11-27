@@ -1,0 +1,192 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "620",
+        "max_price": "5",
+        "modal_price": "10",
+        "avg_price": "7"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1650",
+        "max_price": "8",
+        "modal_price": "12",
+        "avg_price": "10"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे -पिंपरी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "300",
+        "max_price": "6",
+        "modal_price": "6",
+        "avg_price": "6"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "780",
+        "max_price": "5",
+        "modal_price": "10",
+        "avg_price": "7"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1200",
+        "max_price": "10",
+        "modal_price": "13",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पुणे -पिंपरी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "450",
+        "max_price": "6",
+        "modal_price": "7",
+        "avg_price": "7"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "400",
+        "max_price": "5",
+        "modal_price": "10",
+        "avg_price": "8"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे -पिंपरी",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "350",
+        "max_price": "6",
+        "modal_price": "7",
+        "avg_price": "7"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "500",
+        "max_price": "6",
+        "modal_price": "10",
+        "avg_price": "8"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1550",
+        "max_price": "10",
+        "modal_price": "13",
+        "avg_price": "12"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "500",
+        "max_price": "6",
+        "modal_price": "10",
+        "avg_price": "8"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1000",
+        "max_price": "10",
+        "modal_price": "13",
+        "avg_price": "11"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "600",
+        "max_price": "6",
+        "modal_price": "10",
+        "avg_price": "8"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1300",
+        "max_price": "8",
+        "modal_price": "10",
+        "avg_price": "9"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "600",
+        "max_price": "6",
+        "modal_price": "10",
+        "avg_price": "8"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1200",
+        "max_price": "12",
+        "modal_price": "15",
+        "avg_price": "13"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "140",
+        "max_price": "6",
+        "modal_price": "10",
+        "avg_price": "8"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे-मांजरी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "600",
+        "max_price": "5",
+        "modal_price": "10",
+        "avg_price": "6"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अकलुज",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "1500",
+        "max_price": "10",
+        "modal_price": "12",
+        "avg_price": "11"
+    }
+]

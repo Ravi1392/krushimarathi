@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मका",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "2000",
+        "modal_price": "2250",
+        "avg_price": "2100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "ज्वारी",
+        "variety": "मालदांडी",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "2700",
+        "modal_price": "3200",
+        "avg_price": "2900"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "गहू",
+        "variety": "शरबती",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "2600",
+        "modal_price": "3000",
+        "avg_price": "2700"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मका",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "45",
+        "max_price": "2000",
+        "modal_price": "2300",
+        "avg_price": "2100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "ज्वारी",
+        "variety": "मालदांडी",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "2700",
+        "modal_price": "3200",
+        "avg_price": "2800"
+    }
+]

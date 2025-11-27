@@ -1,0 +1,246 @@
+.matches-container {
+    background-color: rgb(1, 99, 105);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.match-card-wrapper {
+    width: 100%;
+}
+
+.match-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.match-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 15px;
+    position: relative;
+    transition: transform 0.2s;
+    width: 100%;
+}
+
+.match-card:hover {
+    transform: translateY(-2px);
+}
+
+.match-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #666;
+    font-size: 14px;
+    /* padding-bottom: 10px; */
+}
+.match-header .status{
+    display: flex    ;
+    align-items: center;
+    gap: 5px;
+}
+
+.match-header span.live{
+    background: rgb(142 142 142 / 20%);
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.match-header span.upcoming{
+    background: rgb(142 142 142 / 20%);
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.match-header span.complete{
+    background: rgb(142 142 142 / 20%);
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.status {
+    font-weight: bold;
+}
+
+.divider {
+    height: 2px;
+    background: rgba(0,0,0,0.05);
+    margin: 10px 0;
+}
+
+.match-details {
+    padding: 0 15px;
+}
+
+.team-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.team-info {
+    display: flex;
+    align-items: center;
+}
+
+.team-logo {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.team-name {
+    color: rgba(0,0,0,0.5);
+}
+
+.score {
+    color: #333;
+    font-weight: 500;
+}
+
+.match-footer {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #4CAF50; /* Green background, can be changed */
+    border-radius: 0 0 8px 8px;
+    margin: 10px -15px -15px -15px;
+}
+
+.live-indicator {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #ff0000;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.live-indicator.left {
+    left: -10px;
+}
+
+.live-indicator.right {
+    right: -10px;
+}
+
+/* Tabs */
+.tabs {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.tab {
+    flex: 1;
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 18px;
+    position: relative;
+}
+
+.tab.active {
+    color: #00cb17;
+}
+
+.tab.active:after {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 100%;
+    background-color: #00cb17;
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+}
+
+/* Tab Content */
+.tab-pane {
+    display: none;
+}
+
+.tab-pane.active {
+    display: block;
+}
+
+.no-matches {
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+}
+
+/* Date Section */
+.date-section {
+    margin-bottom: 20px;
+}
+
+.date-header {
+    background-color: #cdcdcd;
+    border-radius: 20px;
+    padding: 10px 20px;
+    display: inline-block;
+    margin: 0 auto 15px;
+    text-align: center;
+    width: fit-content;
+}
+
+/* Matches Grid */
+.matches-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.match-time {
+    color: #333;
+    font-weight: 500;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+
+    .matches-container {
+        padding: 5px;
+    }
+    .matches-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .match-details {
+        padding: 0;
+    }
+
+    .tab {
+        font-size: 16px;
+        padding: 8px 10px;
+    }
+
+    .live-indicator {
+        padding: 3px 8px;
+        font-size: 10px;
+    }
+
+    .live-indicator.left {
+        left: 0;
+    }
+
+    .live-indicator.right {
+        right: 0;
+    }
+}

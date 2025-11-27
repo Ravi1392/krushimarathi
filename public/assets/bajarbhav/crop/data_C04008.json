@@ -1,0 +1,212 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "5700",
+        "modal_price": "7500",
+        "avg_price": "7100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "9051",
+        "modal_price": "9100",
+        "avg_price": "9075"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "लातूर",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "6030",
+        "modal_price": "8390",
+        "avg_price": "8100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "8860",
+        "modal_price": "8950",
+        "avg_price": "8905"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "2000",
+        "modal_price": "2000",
+        "avg_price": "2000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "7700",
+        "modal_price": "7700",
+        "avg_price": "7700"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "8850",
+        "modal_price": "9070",
+        "avg_price": "8950"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "8600",
+        "modal_price": "8900",
+        "avg_price": "8750"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुरुम",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "5500",
+        "modal_price": "5500",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "7150",
+        "modal_price": "7150",
+        "avg_price": "7150"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "8501",
+        "modal_price": "8876",
+        "avg_price": "8688"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "लातूर",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "59",
+        "max_price": "6000",
+        "modal_price": "8100",
+        "avg_price": "8000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "7000",
+        "modal_price": "7100",
+        "avg_price": "7100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "8480",
+        "modal_price": "8570",
+        "avg_price": "8525"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "लातूर",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "38",
+        "max_price": "5940",
+        "modal_price": "7700",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3501",
+        "modal_price": "3501",
+        "avg_price": "3501"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "7000",
+        "modal_price": "7000",
+        "avg_price": "7000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "8000",
+        "modal_price": "8200",
+        "avg_price": "8100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लातूर",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "41",
+        "max_price": "5940",
+        "modal_price": "8000",
+        "avg_price": "7950"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुरुम",
+        "variety": "सफेद",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "7080",
+        "modal_price": "7080",
+        "avg_price": "7080"
+    }
+]

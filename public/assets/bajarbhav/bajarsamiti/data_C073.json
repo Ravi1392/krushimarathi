@@ -1,0 +1,152 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "325",
+        "max_price": "5750",
+        "modal_price": "5833",
+        "avg_price": "5791"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1657",
+        "max_price": "6600",
+        "modal_price": "6950",
+        "avg_price": "6775"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2476",
+        "max_price": "4230",
+        "modal_price": "4300",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "455",
+        "max_price": "5800",
+        "modal_price": "5870",
+        "avg_price": "5855"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1201",
+        "max_price": "6600",
+        "modal_price": "6925",
+        "avg_price": "6762"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2137",
+        "max_price": "4100",
+        "modal_price": "4270",
+        "avg_price": "4185"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "311",
+        "max_price": "5800",
+        "modal_price": "5911",
+        "avg_price": "5855"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1269",
+        "max_price": "6626",
+        "modal_price": "6900",
+        "avg_price": "6763"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2592",
+        "max_price": "4275",
+        "modal_price": "4335",
+        "avg_price": "4305"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "346",
+        "max_price": "5800",
+        "modal_price": "5911",
+        "avg_price": "5855"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "930",
+        "max_price": "6500",
+        "modal_price": "6799",
+        "avg_price": "6649"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2558",
+        "max_price": "4190",
+        "modal_price": "4340",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "717",
+        "max_price": "5900",
+        "modal_price": "6011",
+        "avg_price": "5955"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1360",
+        "max_price": "6600",
+        "modal_price": "6911",
+        "avg_price": "6755"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3623",
+        "max_price": "4251",
+        "modal_price": "4340",
+        "avg_price": "4295"
+    }
+]

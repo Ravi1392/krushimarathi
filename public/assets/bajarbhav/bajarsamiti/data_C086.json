@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "१०१०",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "1810",
+        "modal_price": "1820",
+        "avg_price": "1815"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "भात - धान",
+        "variety": "१०१०",
+        "unit": "क्विंटल",
+        "min_price": "96",
+        "max_price": "1760",
+        "modal_price": "1820",
+        "avg_price": "1790"
+    }
+]

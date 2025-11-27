@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "5500",
+        "modal_price": "6000",
+        "avg_price": "5750"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सांगली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "5500",
+        "modal_price": "6000",
+        "avg_price": "5750"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बारामती",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "4300",
+        "modal_price": "4776",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "दुधणी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4400",
+        "modal_price": "4400",
+        "avg_price": "4400"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "दुधणी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4005",
+        "modal_price": "4005",
+        "avg_price": "4005"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "दुधणी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5000",
+        "modal_price": "5000",
+        "avg_price": "5000"
+    }
+]

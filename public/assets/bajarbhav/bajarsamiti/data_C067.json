@@ -1,0 +1,362 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कोबी",
+        "variety": "----",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "800",
+        "modal_price": "1500",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कोथिंबिर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "11000",
+        "max_price": "500",
+        "modal_price": "1500",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "काकडी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "1500",
+        "modal_price": "3000",
+        "avg_price": "2200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "फ्लॉवर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "1500",
+        "modal_price": "3000",
+        "avg_price": "2100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मेथी भाजी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "4000",
+        "max_price": "1000",
+        "modal_price": "2500",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कोबी",
+        "variety": "----",
+        "unit": "क्विंटल",
+        "min_price": "38",
+        "max_price": "800",
+        "modal_price": "1500",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कोथिंबिर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "13000",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "800"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "काकडी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "1500",
+        "modal_price": "3000",
+        "avg_price": "2200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "फ्लॉवर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "1500",
+        "modal_price": "3000",
+        "avg_price": "2100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मेथी भाजी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "5000",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कोबी",
+        "variety": "----",
+        "unit": "क्विंटल",
+        "min_price": "39",
+        "max_price": "800",
+        "modal_price": "1500",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कोथिंबिर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "10000",
+        "max_price": "500",
+        "modal_price": "1100",
+        "avg_price": "800"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "काकडी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "42",
+        "max_price": "1500",
+        "modal_price": "3000",
+        "avg_price": "2200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "फ्लॉवर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "1200",
+        "modal_price": "2800",
+        "avg_price": "2000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मेथी भाजी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "4500",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कोबी",
+        "variety": "----",
+        "unit": "क्विंटल",
+        "min_price": "39",
+        "max_price": "800",
+        "modal_price": "1500",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कोथिंबिर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "11000",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "800"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "काकडी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "1000",
+        "modal_price": "2500",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "फ्लॉवर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "17",
+        "max_price": "1500",
+        "modal_price": "3000",
+        "avg_price": "2500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मेथी भाजी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "4000",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "कोबी",
+        "variety": "----",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "800",
+        "modal_price": "1500",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "कोथिंबिर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "10000",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "800"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "काकडी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "1000",
+        "modal_price": "3000",
+        "avg_price": "2000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "फ्लॉवर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "1000",
+        "modal_price": "2500",
+        "avg_price": "2000"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "मिरची (हिरवी)",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "मेथी भाजी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "3000",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कोबी",
+        "variety": "----",
+        "unit": "क्विंटल",
+        "min_price": "48",
+        "max_price": "500",
+        "modal_price": "1500",
+        "avg_price": "1200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कोथिंबिर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "10000",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "800"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "काकडी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "1000",
+        "modal_price": "2500",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "फ्लॉवर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "1000",
+        "modal_price": "2500",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मेथी भाजी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "3000",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कोबी",
+        "variety": "----",
+        "unit": "क्विंटल",
+        "min_price": "38",
+        "max_price": "800",
+        "modal_price": "1500",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कोथिंबिर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "10000",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "800"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "काकडी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "1000",
+        "modal_price": "2500",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "फ्लॉवर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "1000",
+        "modal_price": "2500",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मेथी भाजी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "4000",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1500"
+    }
+]

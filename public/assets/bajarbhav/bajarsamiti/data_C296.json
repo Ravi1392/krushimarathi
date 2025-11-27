@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मका",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "1900",
+        "modal_price": "2100",
+        "avg_price": "2000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    }
+]

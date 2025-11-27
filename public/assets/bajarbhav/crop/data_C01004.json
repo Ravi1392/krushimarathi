@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "जालना",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "50500",
+        "modal_price": "50500",
+        "avg_price": "50500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बारामती",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "30000",
+        "modal_price": "58000",
+        "avg_price": "49500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "बारामती",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "46500",
+        "modal_price": "58500",
+        "avg_price": "52500"
+    }
+]

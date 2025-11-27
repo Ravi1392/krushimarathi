@@ -1,0 +1,36 @@
+.breaking-news {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	/*background-color: #55555e;*/
+	background-color: #1ecf2e;
+	
+}
+
+.news {
+	width: 106px;
+	font-weight: 900;
+	display: flex;
+	justify-content: center;
+	background-color: #00950d;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	color: white;
+	padding-right: .25rem;
+  }
+
+
+.news-scroll a{
+	text-decoration: none
+}
+.dot {
+    height: 12px;
+    width: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*margin-top: 2px !important;*/
+    /*background-color: rgb(207, 23, 23);*/
+    background-color: #00950d;
+    border-radius: 50%;
+    display: inline-block;
+}

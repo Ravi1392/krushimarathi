@@ -1,0 +1,92 @@
+[
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अकोट",
+        "variety": "एच-४ - मध्यम स्टेपल",
+        "unit": "क्विंटल",
+        "min_price": "190",
+        "max_price": "8100",
+        "modal_price": "8200",
+        "avg_price": "8200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "आर्वी",
+        "variety": "एच-४ - मध्यम स्टेपल",
+        "unit": "क्विंटल",
+        "min_price": "95",
+        "max_price": "7300",
+        "modal_price": "7650",
+        "avg_price": "7400"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कळमेश्वर",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "95",
+        "max_price": "6800",
+        "modal_price": "7500",
+        "avg_price": "7200"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "आर्वी",
+        "variety": "एच-४ - मध्यम स्टेपल",
+        "unit": "क्विंटल",
+        "min_price": "101",
+        "max_price": "7300",
+        "modal_price": "7600",
+        "avg_price": "7400"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सावनेर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "7400",
+        "modal_price": "7400",
+        "avg_price": "7400"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "आर्वी",
+        "variety": "एच-४ - मध्यम स्टेपल",
+        "unit": "क्विंटल",
+        "min_price": "91",
+        "max_price": "7300",
+        "modal_price": "7600",
+        "avg_price": "7400"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कळमेश्वर",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "80",
+        "max_price": "6800",
+        "modal_price": "7500",
+        "avg_price": "7200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "आर्वी",
+        "variety": "एच-४ - मध्यम स्टेपल",
+        "unit": "क्विंटल",
+        "min_price": "124",
+        "max_price": "7300",
+        "modal_price": "7600",
+        "avg_price": "7400"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कळमेश्वर",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "6800",
+        "modal_price": "7500",
+        "avg_price": "7200"
+    }
+]

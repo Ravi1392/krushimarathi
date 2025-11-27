@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2025-06-29",
+        "apmc_name": "भंडारा",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "16",
+        "max_price": "4000",
+        "modal_price": "25000",
+        "avg_price": "12000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भोर",
+        "variety": "नं. १",
+        "unit": "नग",
+        "min_price": "14",
+        "max_price": "10000",
+        "modal_price": "60000",
+        "avg_price": "30000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "खामगाव",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "94",
+        "max_price": "10000",
+        "modal_price": "30000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "दर्यापूर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "66",
+        "max_price": "26900",
+        "modal_price": "45600",
+        "avg_price": "42500"
+    }
+]

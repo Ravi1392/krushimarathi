@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नागपूर",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "825"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "500",
+        "modal_price": "1000",
+        "avg_price": "825"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अमरावती- फळ आणि भाजीपाला",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "389",
+        "max_price": "400",
+        "modal_price": "800",
+        "avg_price": "600"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "1000",
+        "modal_price": "2000",
+        "avg_price": "1875"
+    }
+]

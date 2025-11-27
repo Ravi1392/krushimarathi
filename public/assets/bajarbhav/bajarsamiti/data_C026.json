@@ -1,0 +1,102 @@
+[
+    {
+        "date": "2025-07-01",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "725",
+        "max_price": "5800",
+        "modal_price": "5910",
+        "avg_price": "5800"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "110",
+        "max_price": "1500",
+        "modal_price": "2240",
+        "avg_price": "2240"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "190",
+        "max_price": "3450",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "गहू",
+        "variety": "१४७",
+        "unit": "क्विंटल",
+        "min_price": "60",
+        "max_price": "2600",
+        "modal_price": "2600",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कापूस",
+        "variety": "एच-४ - मध्यम स्टेपल",
+        "unit": "क्विंटल",
+        "min_price": "190",
+        "max_price": "8100",
+        "modal_price": "8200",
+        "avg_price": "8200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मका",
+        "variety": "सफेद गंगा",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "1745",
+        "modal_price": "1805",
+        "avg_price": "1800"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तूर",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "760",
+        "max_price": "6100",
+        "modal_price": "6780",
+        "avg_price": "6700"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "275",
+        "max_price": "1250",
+        "modal_price": "2500",
+        "avg_price": "2450"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "3600",
+        "modal_price": "4155",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गहू",
+        "variety": "१४७",
+        "unit": "क्विंटल",
+        "min_price": "140",
+        "max_price": "2465",
+        "modal_price": "2515",
+        "avg_price": "2500"
+    }
+]

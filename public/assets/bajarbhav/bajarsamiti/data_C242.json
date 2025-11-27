@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हरभरा",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "5500",
+        "modal_price": "5600",
+        "avg_price": "5550"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोयाबिन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "110",
+        "max_price": "3850",
+        "modal_price": "3950",
+        "avg_price": "3900"
+    }
+]

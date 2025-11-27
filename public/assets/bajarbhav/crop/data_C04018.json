@@ -1,0 +1,132 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4300",
+        "modal_price": "4300",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "4700",
+        "modal_price": "4700",
+        "avg_price": "4700"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नंदूरबार",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "5200",
+        "modal_price": "5200",
+        "avg_price": "5200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "5221",
+        "modal_price": "5221",
+        "avg_price": "5221"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बारामती",
+        "variety": "मॉडर्न",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "4000",
+        "modal_price": "5910",
+        "avg_price": "5640"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4200",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पाचोरा",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "4300",
+        "modal_price": "4391",
+        "avg_price": "4351"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सिल्लोड- भराडी",
+        "variety": "काळे",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4500",
+        "modal_price": "4500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "4800",
+        "modal_price": "4800",
+        "avg_price": "4800"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नंदूरबार",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "24",
+        "max_price": "4800",
+        "modal_price": "5300",
+        "avg_price": "4900"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4500",
+        "modal_price": "4500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "जालना",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4950",
+        "modal_price": "4950",
+        "avg_price": "4950"
+    }
+]

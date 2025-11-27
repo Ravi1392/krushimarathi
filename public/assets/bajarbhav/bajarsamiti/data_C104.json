@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "4000",
+        "modal_price": "5200",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तूर",
+        "variety": "लाल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "5610",
+        "modal_price": "5610",
+        "avg_price": "5610"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "1590",
+        "modal_price": "1590",
+        "avg_price": "1590"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "2641",
+        "modal_price": "2650",
+        "avg_price": "2641"
+    }
+]

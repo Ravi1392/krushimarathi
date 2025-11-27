@@ -1,0 +1,232 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भात - धान",
+        "variety": "परभणी चेन्नुर",
+        "unit": "क्विंटल",
+        "min_price": "90",
+        "max_price": "3360",
+        "modal_price": "3532",
+        "avg_price": "3416"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "241",
+        "max_price": "2471",
+        "modal_price": "2767",
+        "avg_price": "2634"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "270",
+        "max_price": "1500",
+        "modal_price": "2100",
+        "avg_price": "1902"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "परभणी चेन्नुर",
+        "unit": "क्विंटल",
+        "min_price": "43",
+        "max_price": "3335",
+        "modal_price": "3472",
+        "avg_price": "3400"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "608",
+        "max_price": "2484",
+        "modal_price": "2776",
+        "avg_price": "2603"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "464",
+        "max_price": "1750",
+        "modal_price": "2300",
+        "avg_price": "1945"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "जयप्रकाश",
+        "unit": "क्विंटल",
+        "min_price": "22",
+        "max_price": "2900",
+        "modal_price": "3400",
+        "avg_price": "3217"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भात - धान",
+        "variety": "परभणी चेन्नुर",
+        "unit": "क्विंटल",
+        "min_price": "80",
+        "max_price": "3350",
+        "modal_price": "3500",
+        "avg_price": "3416"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "533",
+        "max_price": "2491",
+        "modal_price": "2807",
+        "avg_price": "2626"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "938",
+        "max_price": "1700",
+        "modal_price": "2150",
+        "avg_price": "1897"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "परभणी चेन्नुर",
+        "unit": "क्विंटल",
+        "min_price": "62",
+        "max_price": "3362",
+        "modal_price": "3482",
+        "avg_price": "3400"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "739",
+        "max_price": "2478",
+        "modal_price": "2768",
+        "avg_price": "2623"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "2001",
+        "max_price": "1650",
+        "modal_price": "2325",
+        "avg_price": "1921"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "जयप्रकाश",
+        "unit": "क्विंटल",
+        "min_price": "43",
+        "max_price": "3300",
+        "modal_price": "3580",
+        "avg_price": "3399"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "184",
+        "max_price": "2400",
+        "modal_price": "2710",
+        "avg_price": "2598"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "1876",
+        "max_price": "1500",
+        "modal_price": "2325",
+        "avg_price": "1929"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भात - धान",
+        "variety": "परभणी चेन्नुर",
+        "unit": "क्विंटल",
+        "min_price": "82",
+        "max_price": "3365",
+        "modal_price": "3505",
+        "avg_price": "3442"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "804",
+        "max_price": "2486",
+        "modal_price": "2793",
+        "avg_price": "2610"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "1021",
+        "max_price": "1500",
+        "modal_price": "2200",
+        "avg_price": "1899"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "भात - धान",
+        "variety": "परभणी चेन्नुर",
+        "unit": "क्विंटल",
+        "min_price": "155",
+        "max_price": "3412",
+        "modal_price": "3500",
+        "avg_price": "3452"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "812",
+        "max_price": "2474",
+        "modal_price": "2803",
+        "avg_price": "2620"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "भात - धान",
+        "variety": "परभणी चेन्नुर",
+        "unit": "क्विंटल",
+        "min_price": "111",
+        "max_price": "3330",
+        "modal_price": "3500",
+        "avg_price": "3462"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "698",
+        "max_price": "2472",
+        "modal_price": "2812",
+        "avg_price": "2619"
+    }
+]

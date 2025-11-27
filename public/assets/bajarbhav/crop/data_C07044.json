@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "350",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "210",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "450",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "390",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुंबई - फ्रुट मार्केट",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "385",
+        "max_price": "2000",
+        "modal_price": "3000",
+        "avg_price": "2500"
+    }
+]

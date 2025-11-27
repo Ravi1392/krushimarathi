@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-07-04",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "382",
+        "max_price": "2600",
+        "modal_price": "2700",
+        "avg_price": "2650"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "110",
+        "max_price": "2600",
+        "modal_price": "2700",
+        "avg_price": "2650"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "2600",
+        "modal_price": "2700",
+        "avg_price": "2650"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "165",
+        "max_price": "2400",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "260",
+        "max_price": "2400",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "335",
+        "max_price": "2400",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "305",
+        "max_price": "2600",
+        "modal_price": "2700",
+        "avg_price": "2650"
+    }
+]

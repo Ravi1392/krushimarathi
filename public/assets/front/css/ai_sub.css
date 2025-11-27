@@ -1,0 +1,223 @@
+    /* AI Banner Container Styles Start*/
+    .ai-banner-container {
+        /* max-width: 900px; */
+        width: 100%;
+        background: #D0E4FE;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        padding: 25px 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .ai-banner-text {
+        flex-grow: 1;
+    }
+
+    .ai-banner-heading {
+        font-size: 28px;
+        font-weight: 700;
+        color: #2c3e50;
+        margin: 0 0 8px 0;
+    }
+
+    .ai-banner-subheading {
+        font-size: 17px;
+        font-weight: 500;
+        color: #34495e;
+        line-height: 1.5;
+        margin: 0;
+    }
+
+    .ai-banner-button {
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: 600;
+        background: #1572ed;
+        color: #ffffff;
+        border-radius: 8px;
+        padding: 14px 34px;
+        white-space: nowrap;
+        transition: background 0.3s ease, transform 0.3s ease;
+        flex-shrink: 0;
+    }
+
+    .ai-banner-button:hover {
+        background: #0f5bb5;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    /* AI Banner Container Styles End*/
+
+    /* Subscription Box Styles Start*/
+    .s-inner.s-row-layout {
+        width: 100%;
+        padding: 40px;
+        background: #D0E4FE;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .s-top-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .s-application-cta-get-started-title {
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: #1e3a8a;
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+
+    /* Form and Input Styles */
+    .s-subscription-form {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: flex-end;
+        gap: 5px;
+        flex-grow: 1;
+    }
+
+    .s-form-inputs {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        width: 100%; /* Ensure inputs take up available space */
+    }
+
+    #subscriber-email {
+        flex-grow: 1;
+        padding: 14px 20px;
+        font-size: 16px;
+        border: 1px solid #d1d5db;
+        border-radius: 8px;
+        outline: none;
+        transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    #subscriber-email:focus {
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.25);
+    }
+
+    /* Button Styles */
+    .button-56 {
+        padding: 14px 30px;
+        font-size: 16px;
+        font-weight: 600;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+        color: #fff;
+        flex-shrink: 0;
+        height: 52px;
+    }
+
+    .button-yellow {
+        background-color: #ffc107;
+        color: #333;
+    }
+
+    .button-yellow:hover {
+        background-color: #e0a800;
+        transform: translateY(-2px);
+    }
+
+    /* Disclaimer and Link */
+    .s-disclaimer {
+        font-size: 0.9rem;
+        color: #6b7280;
+        line-height: 1.5;
+        display: block;
+        width: 100%;
+    }
+    .s-disclaimer a {
+        color: #1572ed;
+        text-decoration: none;
+    }
+    .s-disclaimer a:hover {
+        text-decoration: underline;
+    }
+    /* Subscription Box Styles End*/
+
+    /* Responsive Subscription Box Styles Start*/
+    @media (max-width: 900px) {
+        .s-top-row {
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+        .s-application-cta-get-started-title {
+            text-align: center;
+        }
+        .s-subscription-form {
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+        }
+        .s-form-inputs {
+            justify-content: center;
+        }
+        #subscriber-email {
+            max-width: 300px;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .s-inner.s-row-layout {
+            padding: 30px;
+        }
+
+        .s-form-inputs {
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        #subscriber-email {
+            width: 100%;
+            max-width: none;
+            box-sizing: border-box;
+        }
+        
+        .button-56 {
+            width: 100%;
+        }
+    }
+    
+    /* Responsive Subscription Box Styles End*/
+    
+    /* Responsive AI Banner Container Styles Start */
+    @media screen and (max-width: 768px) {
+        .ai-banner-container {
+            flex-direction: column;
+            align-items: flex-start;
+            /* padding: 20px; */
+            margin-bottom: 10px;
+        }
+        .ai-banner-heading {
+            font-size: 22px;
+        }
+        .ai-banner-subheading {
+            font-size: 15px;
+        }
+        .ai-banner-button {
+            width: 100%;
+            text-align: center;
+            margin-top: 15px;
+            padding: 12px;
+            font-size: 16px;
+        }
+    }
+    /* Responsive AI Banner Container Styles End */

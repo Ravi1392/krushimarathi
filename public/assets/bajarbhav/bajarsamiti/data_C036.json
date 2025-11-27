@@ -1,0 +1,342 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "29",
+        "max_price": "4800",
+        "modal_price": "5205",
+        "avg_price": "5085"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मूग",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "7045",
+        "modal_price": "7045",
+        "avg_price": "7045"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "5500",
+        "modal_price": "6005",
+        "avg_price": "5700"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "1600",
+        "modal_price": "2000",
+        "avg_price": "1620"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "26",
+        "max_price": "3900",
+        "modal_price": "4210",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1422",
+        "max_price": "9500",
+        "modal_price": "12620",
+        "avg_price": "11800"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "5000",
+        "modal_price": "5290",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तील",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "5800",
+        "modal_price": "5800",
+        "avg_price": "5800"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "17",
+        "max_price": "1810",
+        "modal_price": "2400",
+        "avg_price": "2370"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "640",
+        "max_price": "10000",
+        "modal_price": "12605",
+        "avg_price": "11800"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "गहू",
+        "variety": "शरबती",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "2450",
+        "modal_price": "2745",
+        "avg_price": "2450"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "5300",
+        "modal_price": "5300",
+        "avg_price": "5300"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "6100",
+        "modal_price": "6100",
+        "avg_price": "6100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "1550",
+        "modal_price": "2450",
+        "avg_price": "2370"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "99",
+        "max_price": "3900",
+        "modal_price": "4260",
+        "avg_price": "4235"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1476",
+        "max_price": "10500",
+        "modal_price": "13100",
+        "avg_price": "12000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "गहू",
+        "variety": "शरबती",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "2570",
+        "modal_price": "2875",
+        "avg_price": "2875"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "5200",
+        "modal_price": "5200",
+        "avg_price": "5200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "ओली",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "5600",
+        "modal_price": "6100",
+        "avg_price": "5785"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "22",
+        "max_price": "5800",
+        "modal_price": "5950",
+        "avg_price": "5800"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "1450",
+        "modal_price": "2400",
+        "avg_price": "1620"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "29",
+        "max_price": "4300",
+        "modal_price": "4300",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1236",
+        "max_price": "10500",
+        "modal_price": "12850",
+        "avg_price": "12025"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गहू",
+        "variety": "शरबती",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "2950",
+        "modal_price": "2950",
+        "avg_price": "2950"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4500",
+        "modal_price": "5250",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "1400",
+        "modal_price": "1650",
+        "avg_price": "1650"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "4200",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गहू",
+        "variety": "शरबती",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "2300",
+        "modal_price": "2300",
+        "avg_price": "2300"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हरभरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "5400",
+        "modal_price": "5400",
+        "avg_price": "5400"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "6220",
+        "modal_price": "6220",
+        "avg_price": "6220"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तील",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "9000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "ज्वारी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "2300",
+        "modal_price": "2750",
+        "avg_price": "2310"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोयाबिन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "3900",
+        "modal_price": "4275",
+        "avg_price": "4095"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हळद\/ हळकुंड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1394",
+        "max_price": "10000",
+        "modal_price": "13065",
+        "avg_price": "12000"
+    }
+]

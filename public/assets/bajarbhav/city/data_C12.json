@@ -1,0 +1,1022 @@
+[
+    {
+        "date": "2025-07-04",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "1900",
+        "modal_price": "4800",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-07-04",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भात - धान",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "63",
+        "max_price": "2369",
+        "modal_price": "2450",
+        "avg_price": "2400"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "293",
+        "max_price": "3050",
+        "modal_price": "5300",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "फ्लॉवर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "350",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "गाजर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "4000",
+        "modal_price": "4500",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "12000",
+        "modal_price": "13000",
+        "avg_price": "12500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "घोसाळी (भाजी)",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "काकडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "6000",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कोबी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पडवळ",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "दोडका (शिराळी)",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "टोमॅटो",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "750",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तोंडली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "126",
+        "max_price": "3100",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भेडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "8500",
+        "modal_price": "9000",
+        "avg_price": "8750"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "गाजर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "10000",
+        "modal_price": "12000",
+        "avg_price": "11000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "घोसाळी (भाजी)",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "6000",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "काकडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "60",
+        "max_price": "4500",
+        "modal_price": "5000",
+        "avg_price": "4750"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "टोमॅटो",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "643",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तोंडली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "21",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "75",
+        "max_price": "1900",
+        "modal_price": "4800",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भेडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "10000",
+        "modal_price": "11000",
+        "avg_price": "10500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "घोसाळी (भाजी)",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पडवळ",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "टोमॅटो",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "785",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "78",
+        "max_price": "2369",
+        "modal_price": "2450",
+        "avg_price": "2400"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "2370",
+        "modal_price": "2450",
+        "avg_price": "2410"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "356",
+        "max_price": "3050",
+        "modal_price": "5300",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भेडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "8000",
+        "modal_price": "10000",
+        "avg_price": "9000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "घोसाळी (भाजी)",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "काकडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पडवळ",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "60",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "टोमॅटो",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "670",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तोंडली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "6000",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "62",
+        "max_price": "1900",
+        "modal_price": "4800",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "भेडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "6000",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "फ्लॉवर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "250",
+        "max_price": "6000",
+        "modal_price": "6500",
+        "avg_price": "6250"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "गाजर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "11000",
+        "modal_price": "12000",
+        "avg_price": "11500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "काकडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "टोमॅटो",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "385",
+        "max_price": "3000",
+        "modal_price": "3500",
+        "avg_price": "3250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भात - धान",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "57",
+        "max_price": "2369",
+        "modal_price": "2450",
+        "avg_price": "2400"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "232",
+        "max_price": "3050",
+        "modal_price": "5400",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भेडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "फ्लॉवर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "350",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गाजर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "26",
+        "max_price": "4000",
+        "modal_price": "4500",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "8000",
+        "modal_price": "9000",
+        "avg_price": "8500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "काकडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "टोमॅटो",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "643",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "1900",
+        "modal_price": "4800",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "गाजर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "4000",
+        "modal_price": "5000",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "घोसाळी (भाजी)",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "काकडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "भात - धान",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "78",
+        "max_price": "2369",
+        "modal_price": "2450",
+        "avg_price": "2400"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "भात - धान",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "2370",
+        "modal_price": "2450",
+        "avg_price": "2410"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "तांदूळ",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "3050",
+        "modal_price": "5300",
+        "avg_price": "4350"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "तांदूळ",
+        "variety": "कोलम",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "2500",
+        "modal_price": "2700",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "भेडी",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "भेडी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "210",
+        "max_price": "4600",
+        "modal_price": "4800",
+        "avg_price": "4600"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "5000",
+        "modal_price": "6000",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "दुधी भोपळा",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "333",
+        "max_price": "2800",
+        "modal_price": "3000",
+        "avg_price": "2800"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "फ्लॉवर",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "350",
+        "max_price": "3500",
+        "modal_price": "4000",
+        "avg_price": "3750"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "गवार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "घेवडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "9000",
+        "modal_price": "10000",
+        "avg_price": "9500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "घोसाळी (भाजी)",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "6000",
+        "modal_price": "7000",
+        "avg_price": "6500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "काकडी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "264",
+        "max_price": "3400",
+        "modal_price": "3600",
+        "avg_price": "3400"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कारली",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "7000",
+        "modal_price": "8000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पडवळ",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "3000",
+        "modal_price": "4000",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "दोडका (शिराळी)",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "204",
+        "max_price": "5800",
+        "modal_price": "6000",
+        "avg_price": "5800"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "टोमॅटो",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "684",
+        "max_price": "2500",
+        "modal_price": "3000",
+        "avg_price": "2750"
+    }
+]

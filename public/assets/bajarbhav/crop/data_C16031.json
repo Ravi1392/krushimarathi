@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2800",
+        "max_price": "120",
+        "modal_price": "200",
+        "avg_price": "160"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2640",
+        "max_price": "50",
+        "modal_price": "150",
+        "avg_price": "100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2670",
+        "max_price": "50",
+        "modal_price": "150",
+        "avg_price": "100"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2760",
+        "max_price": "50",
+        "modal_price": "100",
+        "avg_price": "75"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2740",
+        "max_price": "50",
+        "modal_price": "150",
+        "avg_price": "100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2730",
+        "max_price": "50",
+        "modal_price": "150",
+        "avg_price": "100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पुणे",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2750",
+        "max_price": "60",
+        "modal_price": "100",
+        "avg_price": "80"
+    }
+]

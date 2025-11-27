@@ -1,0 +1,112 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "270",
+        "max_price": "1500",
+        "modal_price": "2100",
+        "avg_price": "1902"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "जयप्रकाश",
+        "unit": "क्विंटल",
+        "min_price": "22",
+        "max_price": "2900",
+        "modal_price": "3400",
+        "avg_price": "3217"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "136",
+        "max_price": "2450",
+        "modal_price": "2700",
+        "avg_price": "2576"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "464",
+        "max_price": "1750",
+        "modal_price": "2300",
+        "avg_price": "1945"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "938",
+        "max_price": "1700",
+        "modal_price": "2150",
+        "avg_price": "1897"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "जयप्रकाश",
+        "unit": "क्विंटल",
+        "min_price": "43",
+        "max_price": "3300",
+        "modal_price": "3580",
+        "avg_price": "3399"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "159",
+        "max_price": "2500",
+        "modal_price": "2740",
+        "avg_price": "2640"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "2001",
+        "max_price": "1650",
+        "modal_price": "2325",
+        "avg_price": "1921"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "भात - धान",
+        "variety": "जयश्रीराम",
+        "unit": "क्विंटल",
+        "min_price": "184",
+        "max_price": "2400",
+        "modal_price": "2710",
+        "avg_price": "2598"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "1876",
+        "max_price": "1500",
+        "modal_price": "2325",
+        "avg_price": "1929"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भात - धान",
+        "variety": "लांबोर (एफ.ए.क्यु)",
+        "unit": "क्विंटल",
+        "min_price": "1021",
+        "max_price": "1500",
+        "modal_price": "2200",
+        "avg_price": "1899"
+    }
+]

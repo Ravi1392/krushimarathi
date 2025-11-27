@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "भिवंडी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "1575",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भिवंडी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "600",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भिवंडी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2970",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "खामगाव",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "250",
+        "max_price": "5000",
+        "modal_price": "10000",
+        "avg_price": "7500"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "दर्यापूर",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "39",
+        "max_price": "2560",
+        "modal_price": "3650",
+        "avg_price": "3260"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "भिवंडी",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "2465",
+        "max_price": "3500",
+        "modal_price": "5500",
+        "avg_price": "4500"
+    }
+]

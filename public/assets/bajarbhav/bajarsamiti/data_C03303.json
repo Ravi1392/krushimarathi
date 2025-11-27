@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-07-02",
+        "apmc_name": "डाळींब",
+        "variety": "भगवा",
+        "unit": "क्विंटल",
+        "min_price": "476",
+        "max_price": "4500",
+        "modal_price": "27500",
+        "avg_price": "13500"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "कांदा",
+        "variety": "चिंचवड",
+        "unit": "क्विंटल",
+        "min_price": "3565",
+        "max_price": "1000",
+        "modal_price": "2210",
+        "avg_price": "1600"
+    }
+]

@@ -1,0 +1,7 @@
+<div class="bg-w card_radius">
+    <div>
+        <h2 class="widget-title archive-heading" style="margin-bottom: 10px;"><strong>Important Message</strong></h2>
+        <hr>
+        <p>All {{$name}} village survey data are based on the Office of the Registrar General & Census Commissioner, Ministry of Home Affairs, Government of India, 2015 (censusindia.gov.in). Open Government Data Platform India. Published under National Data Sharing and Accessibility Policy (NDSAP).</p>
+    </div>
+</div>

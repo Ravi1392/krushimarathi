@@ -1,0 +1,210 @@
+    .bajarbhav .card{
+        position: relative;
+        display: -ms-flexbox;
+        display: flex        ;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: #fff;
+        background-clip: border-box;
+        border: 1px solid rgba(0, 0, 0, .125);
+        border-radius: 0.8rem;
+        margin-bottom: 1.25rem;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
+    }
+        
+    /* Main card container */
+    .bajarbhav .card-container {
+        margin: auto;
+        background-color: #fff;
+        border-radius: 1rem;
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        overflow: hidden;
+    }
+
+    /* Header styling with gradient */
+    .bajarbhav .card-header {
+        background-image: linear-gradient(to right, #28a745, #1d953a);
+        color: #fff;
+        padding: 1rem;
+        text-align: center;
+        border-top-left-radius: 0.8rem;
+        border-top-right-radius: 0.8rem;
+    }
+
+    /* Responsive header title font size */
+    .bajarbhav .card-header h2 {
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: unset;
+    }
+
+    /* Table css */
+    .bajarbhav .table caption+thead tr:first-child td, .table caption+thead tr:first-child th, .table colgroup+thead tr:first-child td, .table colgroup+thead tr:first-child th, .table thead:first-child tr:first-child td, .table thead:first-child tr:first-child th {
+        border-top-width: 0;
+    }
+
+    .table thead th {
+        vertical-align: middle;
+        border-bottom: 1px solid #b7b7b7;
+    }
+
+    .bajarbhav .table th {
+        font-weight: 500;
+    }
+
+    .bajarbhav table {
+        border-collapse: collapse;
+    }
+
+    .bajarbhav .table-responsive {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .bajarbhav .table-responsive>.table-bordered {
+        border: 1px solid #ddd;
+    }
+
+    .bajarbhav .table thead th {
+        vertical-align: middle;
+        border-bottom: 1px solid #b7b7b7;
+    }
+
+    .bajarbhav .text-white {
+        color: #fff !important;
+    }
+
+    .bajarbhav .table td, .table th, .table tr {
+        transition: background-color ease-in-out .15s;
+    }
+
+    .bajarbhav .table td, .table th {
+        vertical-align: middle;
+    }
+
+    .bajarbhav .table-bordered td, .table-bordered th {
+        border: 1px solid #ddd;
+    }
+
+    .bajarbhav .table td, .table th {
+        padding: .75rem 1.25rem;
+    }
+
+    .bajarbhav th {
+        text-align: inherit;
+    }
+
+    .bajarbhav .table-striped tbody tr:nth-of-type(odd) {
+        background-color: rgba(0, 0, 0, .02);
+    }
+
+    .bajarbhav .date-row {
+        font-weight: bold;
+        background-color: #EBF6F0;
+        text-align: center;
+        color: #495057;
+    }
+
+    .bajarbhav .bg-success {
+        background-color: #4caf50 !important;
+    }
+
+    @media (min-width: 640px) {
+        .bajarbhav .card-header h2 {
+            font-size: 1.875rem;
+        }
+    }
+
+    /* Card body padding */
+    .bajarbhav .card-body {
+        padding: 1rem;
+    }
+    @media (min-width: 640px) {
+        .bajarbhav .card-body {
+            padding: 1.5rem;
+        }
+    }
+    @media (min-width: 1024px) {
+        .bajarbhav .card-body {
+            padding: 1rem;
+        }
+    }
+
+    /* Flexbox for the row container */
+    .bajarbhav .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 0;
+        margin-left: -0.625rem;
+        justify-content: flex-start;
+    }
+
+    @media (min-width: 1200px) {
+        .bajarbhav .col-4 {
+            flex: 0 0 8.33333%; /* 12 कॉलम्स */
+            max-width: 8.33333%;
+        }
+    }
+
+    @media (max-width: 1199px) and (min-width: 768px) {
+        .bajarbhav .col-4 {
+            flex: 0 0 16.66667%; /* 6 कॉलम्स */
+            max-width: 16.66667%;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .bajarbhav .col-4 {
+            flex: 0 0 25%; /* 4 कॉलम्स */
+            max-width: 25%;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .desktop-only {
+            display: none !important;
+        }
+    }
+
+    /* Column styling for responsive grid */
+    .bajarbhav .col-4 {
+        position: relative;
+        width: 100%;
+        margin-bottom: 0.3125rem !important;
+        padding-right: 0; /* उजव्या बाजूचा पॅडिंग शून्य */
+        padding-left: 0.3125rem !important;
+    }
+
+    /* Desktop view (12 items per row) */
+    @media (min-width: 1024px) {
+        .bajarbhav .col {
+            width: calc(100% / 12); /* 12 items per row on desktop */
+        }
+    }
+
+    /* Button styling */
+    .bajarbhav .btn {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: .400rem .2rem;
+        border: 1px solid transparent;
+        border-radius: 0.50rem;
+        font-size: .825rem;
+        font-weight: 400;
+        color: #333;
+        background-color: #fafafa;
+        border-color: #ddd;
+        transition: all 0.3s ease-in-out;
+        text-decoration: none;
+    }
+
+    /* Hover and active states for buttons */
+    .bajarbhav .btn:hover {
+        background-color: #d1fae5;
+        color: #065f46;
+    }

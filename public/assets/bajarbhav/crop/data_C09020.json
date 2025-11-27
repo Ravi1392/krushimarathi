@@ -1,0 +1,142 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18000",
+        "modal_price": "22000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कल्याण",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "13000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18000",
+        "modal_price": "22000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कल्याण",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "13000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18000",
+        "modal_price": "22000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कल्याण",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "13000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18000",
+        "modal_price": "22000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कल्याण",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "13000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18000",
+        "modal_price": "22000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कल्याण",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "13000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18000",
+        "modal_price": "22000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कल्याण",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "13000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कल्याण",
+        "variety": "हायब्रीड",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "18000",
+        "modal_price": "22000",
+        "avg_price": "20000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कल्याण",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "3",
+        "max_price": "10000",
+        "modal_price": "15000",
+        "avg_price": "13000"
+    }
+]

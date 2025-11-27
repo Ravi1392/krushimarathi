@@ -1,0 +1,334 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Main container */
+.match-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(1, 99, 105);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;;
+    /* margin: 20px auto; */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* background-image: url('https://www.thelallantop.com/assets/images/ipl_microsite/ipl_banner.jpg'); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    max-width: 1200px; /* Optional: Limit max width for larger screens */
+}
+
+/* Match card section */
+.match-card {
+    flex: 1;
+}
+
+.custom-match-card-matches {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.custom-match-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 0;
+}
+
+.custom-match-header p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.custom-match-header span {
+    font-size: 12px;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.custom-match-header .status { display: flex; align-items: center; gap: 5px; }
+
+.custom-match-card-matches hr {
+    margin: 0;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.custom-teams-scores {
+    padding: 0.8rem;
+}
+
+.custom-teams-scores .team-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-bottom: 0.8rem; */
+    flex-wrap: wrap; /* Wrap on small screens */
+    gap: 5px;
+}
+
+.team-info {
+    display: flex;
+    align-items: center;
+    align-items: center;
+    min-width: 0;
+}
+
+.team-logo {
+    width: 25px;
+    height: 25px;
+    margin-right: 8px;
+}
+
+.team-logo img {
+    width: 100%;
+    height: 100%;
+    /* object-fit: contain; */
+    object-fit: cover;
+}
+
+.team-row p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.custom-match-status {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    margin: 0;
+    /* padding: 8px; */
+    text-align: center;
+    font-size: 12px;
+    border-radius: 0 0 10px 10px;
+}
+
+/* Center section */
+.center-section {
+    flex: 1;
+    text-align: center;
+    margin: 0 10px;
+}
+
+.logo-container {
+    /* width: 150px;
+    height: 92px; */
+    width: 235px;
+    height: 127px;
+    margin: 0 auto;
+}
+
+.logo-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.button-group button {
+    background-color: transparent;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.button-group button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.custom-external-link {
+    font-size: 12px;
+}
+
+/* Points table section */
+.points-table {
+    flex: 1;
+}
+
+.table-container {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    overflow-x: auto; /* For horizontal scrolling on small screens */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead tr {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+th, td {
+    padding: 8px;
+    border: 0;
+    font-size: 14px;
+}
+
+th {
+    color: white;
+    /*font-weight: normal;*/
+}
+
+.text-start {
+    text-align: left;
+}
+
+tbody tr:nth-child(odd) {
+    background: rgb(1, 99, 105);
+}
+
+tbody tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.team-info img {
+    max-width: 22px;
+    max-height: 22px;
+    margin-right: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .match-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .match-card, .center-section, .points-table {
+        flex: none;
+        width: 100%;
+    }
+
+    .center-section {
+        margin: 0;
+    }
+
+    .logo-container {
+        width: 120px;
+        height: 70px;
+    }
+
+    .button-group {
+        flex-wrap: wrap;
+    }
+
+    .button-group button {
+        font-size: 12px;
+        padding: 4px 8px;
+    }
+
+    th, td {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .match-container {
+        padding: 15px;
+        /* margin: 10px; */
+    }
+
+    .custom-match-header p {
+        font-size: 12px;
+    }
+
+    .team-row p {
+        font-size: 12px;
+    }
+
+    .custom-match-status {
+        font-size: 10px;
+    }
+
+    .logo-container {
+        width: 100px;
+        height: 60px;
+    }
+
+    .button-group button {
+        font-size: 10px;
+        padding: 3px 6px;
+    }
+
+    th, td {
+        font-size: 10px;
+        padding: 6px;
+    }
+}
+
+@media (max-width: 576px) {
+    .custom-match-card-matches { 
+        padding: 8px; 
+    }
+    .custom-match-header p { 
+        font-size: 0.85rem; 
+        max-width: 60%; 
+    }
+    .custom-match-header span { 
+        font-size: 0.8rem; 
+    }
+    .team-logo img { 
+        width: 25px; 
+        height: 25px; 
+    }
+    .team-info p, .custom-teams-scores p { 
+        font-size: 0.8rem; 
+    }
+    .custom-match-status { 
+        font-size: 0.75rem; 
+    }
+    .custom-teams-scores .team-row p { 
+        margin-top: 5px; 
+    }
+}
+
+@media (max-width: 480px) {
+    .match-container {
+        padding: 10px;
+    }
+
+    .team-row p {
+        font-size: 10px;
+    }
+
+    .logo-container {
+        width: 250px;
+        height: 187px;
+    }
+
+    .button-group {
+        gap: 5px;
+    }
+
+    .button-group button {
+        font-size: 18px;
+        padding: 3px 6px;
+    }
+
+    th, td {
+        font-size: 12px;
+        padding: 4px;
+    }
+}

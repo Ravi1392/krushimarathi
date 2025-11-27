@@ -1,0 +1,165 @@
+b, strong {
+    font-weight: bold;
+}
+.help-block_form{
+    font-weight: bold;
+    color: #D84315 !important;
+}
+.error{
+    color: red;
+   border-bottom-color: #d9534f;
+}
+.bg-blue, .btn-primary, .bg-blue:hover, .btn-primary:hover {
+    background-color: #273246;
+    border-color: #273246;
+    color: #fff;
+}
+.font-size-16 {
+    font-size: 16px !important;
+}
+.machine_img_preview{
+   width: 70px;  
+}
+
+/* .navbar-header-color{
+    background-color: #ffffff !important;
+} */
+.navbar-brand-header {
+    float: left;
+    padding: 5px 40px !important;
+    height: 50px !important;
+}
+.navbar-brand > img {
+    margin-top: 0px !important;
+    height: 41px !important;
+}
+.header-highlight .navbar-header > .navbar-nav > li > a {
+    color: rgb(255 255 255 / 90%) !important;
+}
+.navbar-nav>.user-menu .user-image {
+    float: left;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: -2px;
+}
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>img {
+    z-index: 5;
+    height: 90px;
+    width: 90px;
+    border: 3px solid;
+    border-color: transparent;
+    border-color: rgba(255,255,255,0.2);
+}
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header {
+    height: 175px;
+    padding: 10px;
+    text-align: center;
+    background-color: #02733e;
+}
+.navbar-nav>.user-menu>.dropdown-menu {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    padding: 1px 0 0 0;
+    border-top-width: 0;
+    width: 280px;
+}
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>p {
+    z-index: 5;
+    color: #fff;
+    color: rgba(255,255,255,0.8);
+    font-size: 17px;
+    margin-top: 10px;
+}
+.nav-hide1{
+        display: none !important;
+    }
+    
+/*css for filter manage driver payment*/ 
+.show-calendar{
+/*            right: 236px !important;*/
+            right: 40px !important;
+            left: 310px !important;
+        }
+.jGrowl.center {
+    float: right;
+    top: 0% !important;
+    width: 300px;
+    left: 0% !important;
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+}
+.button-padding{
+    padding-left: 5%;
+}
+.margin-row{
+        margin-left: 7px;
+}
+.datepicker_responsive{
+    padding: 9px 17px;
+}
+
+/*css end filter manage driver payment*/ 
+
+@media only screen and (max-width: 769px) {
+   .navbar-brand-header {
+    float: left;
+    padding: 5px 40px !important;
+    height: 50px !important;
+    }
+    .navbar-brand > img {
+        margin-top: 0px !important;
+        height: 41px !important;
+    }
+    .nav-hide{
+        display: none !important;
+    }
+    .datepicker_responsive{
+        padding: 9px 0px 9px 8px;
+    }
+    .panel-body1 {
+        padding: 0px;
+    }
+    .show-calendar{
+/*            right: 236px !important;*/
+            right: 40px !important;
+            left: 0px !important;
+        }
+}
+@media only screen and (min-width: 769px) {
+   
+    .sidebar-xs .header-highlight .navbar-header .navbar-brand {
+        padding: 0px 0px !important;
+        background-size: auto 35px !important;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .navbar-brand-header {
+    float: left;
+    padding: 5px 10px !important;
+    height: 50px !important;
+    }
+    .navbar-brand > img {
+    margin-top: 0px !important;
+    height: 41px !important;
+    }
+    .nav-hide{
+        display: none;
+    }
+    
+    .nav-hide1{
+        display: block !important;
+    }
+    .datepicker_responsive{
+        padding: 9px 0px 9px 8px;
+    }
+    .panel-body1 {
+        padding: 0px;
+    }
+    .show-calendar{
+/*            right: 236px !important;*/
+            right: 40px !important;
+            left: 0px !important;
+        }
+}

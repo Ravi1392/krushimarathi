@@ -1,0 +1,812 @@
+<?php
+
+namespace App\Http\Controllers\Cron;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\Log;
+use Carbon\Carbon;
+use Illuminate\Http\Client\Response;
+use GuzzleHttp\Exception\ConnectException;
+use Throwable;
+
+class BajarbhavApiController extends Controller
+{
+    private $commodityDisplayNames = [
+        '07003' => 'अंजीर',
+        '10027' => 'अंजीर (सुके)',
+        '08003' => 'अंबाडी भाजी',
+        '07002' => 'अननस',
+        '08005' => 'अर्वी',
+        '18008' => 'अवाकाडो',
+        '07037' => 'अवॅकोडस्',
+        '16001' => 'अस्टर',
+        '08004' => 'आंबट चुका',
+        '07001' => 'आंबा',
+        '18003' => 'आईसबर्ग',
+        '08002' => 'आले',
+        '10001' => 'आले (सुंठ)',
+        '07042' => 'आवळा',
+        '08006' => 'आवळा',
+        '03022' => 'उडीद',
+        '03023' => 'उडीद डाळ',
+        '06003' => 'उस',
+        '04005' => 'एरंडी',
+        '04014' => 'ओवा',
+        '08031' => 'कढिपत्ता',
+        '04008' => 'करडई',
+        '08038' => 'करडई (भाजी)',
+        '07011' => 'कलिंगड',
+        '08035' => 'कांदा',
+        '08036' => 'कांदा पात',
+        '08033' => 'काकडी',
+        '16015' => 'कागडा',
+        '10010' => 'काजू',
+        '01001' => 'कापूस',
+        '08039' => 'कारली',
+        '16035' => 'कार्नेशन',
+        '09020' => 'कालवड',
+        '03010' => 'कुलथी',
+        '07014' => 'केळी',
+        '08040' => 'केळी (कच्ची)',
+        '08032' => 'कैरी',
+        '09009' => 'कोंबडी',
+        '08044' => 'कोथिंबिर',
+        '08041' => 'कोबी',
+        '08043' => 'कोहळा',
+        '02012' => 'खपली',
+        '07044' => 'खरबुज',
+        '08024' => 'गवार',
+        '02009' => 'गहू',
+        '08022' => 'गाजर',
+        '09005' => 'गाय',
+        '16004' => 'गुलछडी/निशिगंध',
+        '16003' => 'गुलाब',
+        '06001' => 'गुळ',
+        '16024' => 'गोल्डन / डि.जी',
+        '16025' => 'ग्लॅडीओ',
+        '08025' => 'घेवडा',
+        '08026' => 'घोसाळी (भाजी)',
+        '08016' => 'चवळी (पाला)',
+        '08015' => 'चवळी (शेंगा)',
+        '03003' => 'चवळी बी',
+        '08013' => 'चाकवत',
+        '16022' => 'चाफा',
+        '18006' => 'चायना कोबी',
+        '18015' => 'चायनिझ लसूण',
+        '10003' => 'चिंच',
+        '10004' => 'चिंचोका',
+        '07006' => 'चिकु',
+        '07005' => 'चेरी',
+        '18011' => 'चेरी टोमॅटो',
+        '16034' => 'जरबेरा',
+        '04007' => 'जवस',
+        '07010' => 'जांभूळ',
+        '16005' => 'जास्वंद',
+        '16031' => 'जिप्सि',
+        '10009' => 'जिरे',
+        '16012' => 'जुई',
+        '02011' => 'ज्वारी',
+        '18010' => 'झुचीनी',
+        '16009' => 'झेंडू',
+        '07030' => 'टरबूज',
+        '16030' => 'टॅटस',
+        '08071' => 'टोमॅटो',
+        '07007' => 'डाळींब',
+        '08019' => 'ढेमसे',
+        '18002' => 'ढोबळी मिरची (पिवळी)',
+        '18001' => 'ढोबळी मिरची (लाल)',
+        '08049' => 'ढोवळी मिरची',
+        '08070' => 'तांदुळजा',
+        '02023' => 'तांदूळ',
+        '04019' => 'तील',
+        '16018' => 'तुळजापुरी',
+        '09016' => 'तूप',
+        '03020' => 'तूर',
+        '03021' => 'तूर डाळ',
+        '08072' => 'तोंडली',
+        '10022' => 'दालचिनी',
+        '08012' => 'दुधी भोपळा',
+        '08068' => 'दोडका (शिराळी)',
+        '07008' => 'द्राक्ष',
+        '10005' => 'धने',
+        '08053' => 'नवलकोल',
+        '02016' => 'नाचणी/ नागली',
+        '04013' => 'नारळ',
+        '07033' => 'नासपती',
+        '08054' => 'पडवळ',
+        '07018' => 'पपई',
+        '08056' => 'पपई (भाजी)',
+        '08057' => 'परवर',
+        '08055' => 'पालक',
+        '03018' => 'पावटा',
+        '08058' => 'पावटा (भाजी)',
+        '08084' => 'पिकेडोर',
+        '07023' => 'पिच',
+        '10026' => 'पिस्ता',
+        '08060' => 'पुदिना',
+        '07019' => 'पेअर',
+        '07020' => 'पेरु',
+        '18005' => 'पोकचा',
+        '07024' => 'प्लम',
+        '07022' => 'फणस',
+        '08059' => 'फणस (भाजी)',
+        '08081' => 'फरशी',
+        '08020' => 'फरस बी',
+        '08021' => 'फ्लॉवर',
+        '09018' => 'बकरा',
+        '03002' => 'बटबटी',
+        '08007' => 'बटाटा',
+        '04002' => 'बडिशेप',
+        '10023' => 'बदाम',
+        '02002' => 'बाजरी',
+        '16019' => 'बिजली',
+        '08008' => 'बीट',
+        '10025' => 'बेदाणा',
+        '18009' => 'बेबी कॉर्न',
+        '09002' => 'बैल',
+        '09017' => 'बोकड',
+        '18004' => 'ब्रोकोली',
+        '02007' => 'भात - धान',
+        '08085' => 'भुईमुग शेंग (ओली)',
+        '04003' => 'भुईमुग शेंग (सुकी)',
+        '08009' => 'भेडी',
+        '08011' => 'भोपळा',
+        '02015' => 'मका',
+        '08046' => 'मका (कणीस)',
+        '03014' => 'मटकी',
+        '08074' => 'मटार',
+        '03012' => 'मसूर',
+        '03013' => 'मसूर डाळ',
+        '10014' => 'मिरची (लाल)',
+        '10013' => 'मिरची (हिरवी)',
+        '10020' => 'मिरे',
+        '08051' => 'मुळा',
+        '03016' => 'मूग',
+        '03017' => 'मूग डाळ',
+        '10012' => 'मेथी',
+        '08048' => 'मेथी भाजी',
+        '16014' => 'मोगरा',
+        '07016' => 'मोसंबी',
+        '10015' => 'मोहरी',
+        '09013' => 'म्हैस',
+        '08063' => 'रताळी',
+        '08061' => 'राई(मोहरी भाजी)',
+        '03019' => 'राजगिरा',
+        '08062' => 'राजगिरा',
+        '09014' => 'रेडा',
+        '01004' => 'रेशीम कोष',
+        '08045' => 'लसूण',
+        '10011' => 'लसूण (सुका)',
+        '07015' => 'लिंबू',
+        '04012' => 'लिंबोळी',
+        '07039' => 'लिची',
+        '16006' => 'लिली',
+        '08078' => 'वांगी',
+        '03025' => 'वाटाणा',
+        '03024' => 'वाल',
+        '08076' => 'वाल पापडी',
+        '08075' => 'वाल भाजी',
+        '08077' => 'वालवड',
+        '10018' => 'वेलची',
+        '07047' => 'शहाळे',
+        '04016' => 'शेंगदाणे',
+        '08066' => 'शेपू',
+        '09015' => 'शेळ्या',
+        '16007' => 'शेवंती',
+        '08067' => 'शेवगा',
+        '07027' => 'संत्री',
+        '07026' => 'सफरचंद',
+        '02021' => 'सरसव',
+        '06002' => 'साखर',
+        '02006' => 'साबुदाणा',
+        '07028' => 'सिताफळ',
+        '10017' => 'सुपारी',
+        '08069' => 'सुरण',
+        '04018' => 'सुर्यफुल',
+        '08064' => 'सॅलड',
+        '04017' => 'सोयाबिन',
+        '03006' => 'हरभरा',
+        '03007' => 'हरभरा डाळ',
+        '10006' => 'हळद/ हळकुंड',
+    ];
+
+    private $cityDisplayNames = [
+        '32' => 'अकोला',
+        '33' => 'अमरावती',
+        '16' => 'अहिल्यानगर',
+        '20' => 'कोल्हापूर',
+        '38' => 'गडचिरोली',
+        '44' => 'गोंदिया',
+        '37' => 'चंद्रपुर',
+        '18' => 'जळगाव',
+        '27' => 'जालना',
+        '14' => 'ठाणे',
+        '30' => 'धाराशिव',
+        '17' => 'धुळे',
+        '41' => 'नंदुरबार',
+        '29' => 'नांदेड',
+        '39' => 'नागपूर',
+        '19' => 'नाशिक',
+        '31' => 'परभणी',
+        '45' => 'पालघर',
+        '21' => 'पुणे',
+        '26' => 'बीड',
+        '34' => 'बुलढाणा',
+        '36' => 'भंडारा',
+        '11' => 'मंबई',
+        '35' => 'यवतमाळ',
+        '13' => 'रत्नागिरी',
+        '12' => 'रायगड',
+        '28' => 'लातूर',
+        '40' => 'वर्धा',
+        '42' => 'वाशिम',
+        '22' => 'सांगली',
+        '23' => 'सातारा',
+        '24' => 'सोलापूर',
+        '43' => 'हिंगोली',
+        '25' => 'छत्रपती संभाजीनगर',
+    ];
+    
+    private $bajarSamitiDisplayNames = [
+        '111' => 'अंबड (वडी गोद्री)',
+        '001' => 'अकलुज',
+        '026' => 'अकोट',
+        '010' => 'अकोला',
+        '030' => 'अकोले',
+        '047' => 'अक्कलकोट',
+        '079' => 'अचलपूर',
+        '080' => 'अजनगाव सुर्जी',
+        '012' => 'अमरावती',
+        '01201' => 'अमरावती- फळ आणि भाजीपाला',
+        '061' => 'अमळनेर',
+        '127' => 'अलिबाग',
+        '007' => 'अहिल्यानगर',
+        '178' => 'आंबेजोबाई',
+        '209' => 'आखाडाबाळापूर',
+        '163' => 'आटपाडी',
+        '086' => 'आमगाव',
+        '04601' => 'आरमेरी -देसाइगंज',
+        '046' => 'आरमोरी',
+        '027' => 'आर्वी',
+        '269' => 'आष्टी (वर्धा)',
+        '26901' => 'आष्टी- कारंजा',
+        '103' => 'इंदापूर',
+        '10301' => 'इंदापूर-भिगवन',
+        '101' => 'इस्लामपूर',
+        '073' => 'उदगीर',
+        '242' => 'उमरखेड',
+        '24201' => 'उमरखेड-डांकी',
+        '208' => 'उमरगा',
+        '302' => 'उमराणे',
+        '058' => 'उमरेड',
+        '139' => 'उल्हासनगर',
+        '188' => 'औराद शहाजानी',
+        '191' => 'कंधार',
+        '175' => 'कन्न्ड',
+        '107' => 'करमाळा',
+        '105' => 'कराड',
+        '141' => 'कर्जत (अहमहदनगर)',
+        '244' => 'कर्जत (रायगड)',
+        '102' => 'कल्याण',
+        '204' => 'कळंब (धाराशिव)',
+        '282' => 'कळंब (यवतमाळ)',
+        '263' => 'कळमेश्वर',
+        '053' => 'कळवण',
+        '264' => 'काटोल',
+        '294' => 'कामठी',
+        '077' => 'कारंजा',
+        '179' => 'किल्ले धारुर',
+        '171' => 'कुर्डवाडी',
+        '17101' => 'कुर्डवाडी-मोडनिंब',
+        '091' => 'कोपरगाव',
+        '09101' => 'कोपरगाव',
+        '002' => 'कोल्हापूर',
+        '082' => 'खामगाव',
+        '067' => 'खेड',
+        '06701' => 'खेड-चाकण',
+        '113' => 'गंगाखेड',
+        '174' => 'गंगापूर',
+        '013' => 'गडचिरोली',
+        '109' => 'गेवराई',
+        '257' => 'गोंडपिंपरी',
+        '054' => 'गोंदिया',
+        '154' => 'घोटी',
+        '039' => 'चंद्रपूर',
+        '03901' => 'चंद्रपूर - गंजवड',
+        '065' => 'चांदवड',
+        '118' => 'चांदूर बझार',
+        '222' => 'चांदूर-रल्वे.',
+        '187' => 'चाकूर',
+        '261' => 'चार्मोशी',
+        '062' => 'चाळीसगाव',
+        '06201' => 'चाळीसगाव-नागदरोड',
+        '028' => 'चिखली',
+        '252' => 'चिमुर',
+        '025' => 'चोपडा',
+        '035' => 'छत्रपती संभाजीनगर',
+        '016' => 'जळगाव',
+        '296' => 'जाफराबाद',
+        '089' => 'जामखेड',
+        '009' => 'जालना',
+        '076' => 'जिंतूर',
+        '033' => 'जुन्नर',
+        '03302' => 'जुन्नर - नारायणगाव',
+        '03303' => 'जुन्नर -आळेफाटा',
+        '03301' => 'जुन्नर -ओतूर',
+        '215' => 'ताडकळस',
+        '164' => 'तासगाव',
+        '248' => 'तिरोडा',
+        '125' => 'तुमसर',
+        '207' => 'तुळजापूर',
+        '119' => 'दर्यापूर',
+        '156' => 'दिंडोरी',
+        '15601' => 'दिंडोरी-वणी',
+        '084' => 'दिग्रस',
+        '293' => 'दुधणी',
+        '121' => 'देउळगाव राजा',
+        '298' => 'देवणी',
+        '286' => 'देवळा',
+        '023' => 'दोंडाईचा',
+        '159' => 'दौंड',
+        '15901' => 'दौंड-केडगाव',
+        '15903' => 'दौंड-पाटस',
+        '15902' => 'दौंड-यवत',
+        '006' => 'धर्माबाद',
+        '059' => 'धामणगाव -रेल्वे',
+        '018' => 'धाराशिव',
+        '014' => 'धुळे',
+        '040' => 'नंदूरबार',
+        '144' => 'नवापूर',
+        '155' => 'नांदगाव',
+        '228' => 'नांदूरा',
+        '036' => 'नांदेड',
+        '034' => 'नागपूर',
+        '254' => 'नागभिड',
+        '225' => 'नादगाव खांडेश्वर',
+        '307' => 'नामपूर',
+        '30701' => 'नामपूर- करंजाड',
+        '011' => 'नाशिक',
+        '01101' => 'नाशिक - देवळाली',
+        '160' => 'निरा',
+        '186' => 'निलंगा',
+        '239' => 'नेर परसोपंत',
+        '09301' => 'नेवासा -घोडेगाव',
+        '029' => 'पंढरपूर',
+        '043' => 'पनवेल',
+        '112' => 'परतूर',
+        '021' => 'परभणी',
+        '110' => 'परळी-वैजनाथ',
+        '206' => 'परांडा',
+        '278' => 'पलूस',
+        '240' => 'पांढरकवडा',
+        '064' => 'पाचोरा',
+        '055' => 'पाटन',
+        '221' => 'पातूर',
+        '214' => 'पाथरी',
+        '143' => 'पाथर्डी',
+        '142' => 'पारनेर',
+        '268' => 'पारशिवनी',
+        '136' => 'पालघर (बेवूर)',
+        '096' => 'पिंपळगाव बसवंत',
+        '09604' => 'पिंपळगाव(ब) - औरंगपूर भेंडाळी',
+        '09602' => 'पिंपळगाव(ब) - पालखेड',
+        '09601' => 'पिंपळगाव(ब) - सायखेडा',
+        '022' => 'पुणे',
+        '02201' => 'पुणे- खडकी',
+        '02202' => 'पुणे -पिंपरी',
+        '02204' => 'पुणे-मांजरी',
+        '02205' => 'पुणे-मोशी',
+        '212' => 'पुर्णा',
+        '056' => 'पैठण',
+        '299' => 'पोम्भुर्नी',
+        '106' => 'फलटण',
+        '280' => 'फुलंब्री',
+        '210' => 'बसमत',
+        '243' => 'बाभुळगाव',
+        '004' => 'बारामती',
+        '00402' => 'बारामती-जळोची',
+        '031' => 'बार्शी',
+        '03101' => 'बार्शी -वैराग',
+        '217' => 'बाळापूर',
+        '048' => 'बीड',
+        '231' => 'बुलढाणा',
+        '23101' => 'बुलढाणा-धड',
+        '251' => 'ब्रम्हपूरी',
+        '245' => 'भंडारा',
+        '134' => 'भिवंडी',
+        '262' => 'भिवापूर',
+        '149' => 'भुसावळ',
+        '074' => 'भोकर',
+        '072' => 'भोकरदन',
+        '07201' => 'भोकरदन -पिपळगाव रेणू',
+        '158' => 'भोर',
+        '219' => 'मंगरुळपीर',
+        '172' => 'मंगळवेढा',
+        '21901' => 'मंगळूरपीर - शेलूबाजार',
+        '068' => 'मंचर',
+        '06801' => 'मंचर- वणी',
+        '066' => 'मनमाड',
+        '114' => 'मनवत',
+        '083' => 'मलकापूर',
+        '037' => 'माजलगाव',
+        '130' => 'मानगाव (भादव)',
+        '220' => 'मानोरा',
+        '024' => 'मालेगाव',
+        '02402' => 'मालेगाव-मुंगसे',
+        '050' => 'मुंबई',
+        '05003' => 'मुंबई - कांदा बटाटा मार्केट',
+        '05002' => 'मुंबई - फ्रुट मार्केट',
+        '195' => 'मुखेड',
+        '194' => 'मुदखेड',
+        '135' => 'मुरबाड',
+        '131' => 'मुरुड',
+        '205' => 'मुरुम',
+        '078' => 'मुर्तीजापूर',
+        '253' => 'मुल',
+        '123' => 'मेहकर',
+        '224' => 'मोर्शी',
+        '173' => 'मोहोळ',
+        '019' => 'यवतमाळ',
+        '153' => 'यावल',
+        '008' => 'येवला',
+        '00801' => 'येवला -आंदरसूल',
+        '052' => 'रत्नागिरी',
+        '255' => 'राजूरा',
+        '267' => 'रामटेक',
+        '104' => 'रावेर',
+        '290' => 'राहता',
+        '042' => 'राहूरी',
+        '04201' => 'राहूरी -वांबोरी',
+        '116' => 'रिसोड',
+        '133' => 'रोहा',
+        '247' => 'लाखणी',
+        '005' => 'लातूर',
+        '00501' => 'लातूर -मुरुड',
+        '015' => 'लासलगाव',
+        '01501' => 'लासलगाव - निफाड',
+        '01502' => 'लासलगाव - विंचूर',
+        '108' => 'लासूर स्टेशन',
+        '069' => 'लोणंद',
+        '122' => 'लोणार',
+        '193' => 'लोहा',
+        '097' => 'वडगाव पेठ',
+        '292' => 'वडवणी',
+        '169' => 'वडूज',
+        '085' => 'वणी',
+        '120' => 'वरूड',
+        '12001' => 'वरूड-राजूरा बझार',
+        '126' => 'वरोरा',
+        '063' => 'वर्धा',
+        '138' => 'वसई',
+        '170' => 'वाई',
+        '049' => 'वाशीम',
+        '04901' => 'वाशीम - अनसींग',
+        '165' => 'विटा',
+        '177' => 'वैजापूर',
+        '17701' => 'वैजापूर- शिऊर',
+        '020' => 'शहादा',
+        '099' => 'शिरपूर',
+        '161' => 'शिरुर',
+        '16103' => 'शिरुर-कांदा मार्केट',
+        '230' => 'शेगाव',
+        '098' => 'शेवगाव',
+        '09801' => 'शेवगाव - भोदेगाव',
+        '094' => 'श्रीगोंदा',
+        '09401' => 'श्रीगोंदा - घोगरगाव',
+        '095' => 'श्रीरामपूर',
+        '09501' => 'श्रीरामपूर - बेलापूर',
+        '060' => 'संगमनेर',
+        '090' => 'सटाणा',
+        '272' => 'समुद्रपूर',
+        '017' => 'सांगली',
+        '01701' => 'सांगली -फळे भाजीपाला',
+        '070' => 'सांगोला',
+        '145' => 'साक्री',
+        '168' => 'सातारा',
+        '088' => 'सावनेर',
+        '259' => 'सावली',
+        '232' => 'सिंदखेड राजा',
+        '271' => 'सिंदी',
+        '27101' => 'सिंदी(सेलू)',
+        '041' => 'सिन्नर',
+        '04102' => 'सिन्नर - दोडी बुद्रुक',
+        '04103' => 'सिन्नर - नायगाव',
+        '04101' => 'सिन्नर- नांदूर शिंगोटे',
+        '071' => 'सिल्लोड',
+        '07101' => 'सिल्लोड- भराडी',
+        '211' => 'सेनगाव',
+        '003' => 'सोलापूर',
+        '038' => 'हिंगणघाट',
+        '295' => 'हिंगणा',
+        '075' => 'हिंगोली',
+        '07501' => 'हिंगोली- खानेगाव नाका',
+    ];
+
+    public function __construct()
+    {
+        $publicDataPath = public_path('assets/bajarbhav');
+        if (!file_exists($publicDataPath)) {
+            if (!mkdir($publicDataPath, 0755, true)) {
+                //Log::error("Failed to create directory: {$publicDataPath}");
+            } else {
+                //Log::info("Created directory: {$publicDataPath}");
+            }
+        }
+    }
+
+    //Crop Bajarbhav data
+    public function fetchBatchBajarbhav()
+    {
+        $commodityCodes = array_keys($this->commodityDisplayNames);
+        $results = [];
+
+        // Process in chunks to avoid overwhelming the server
+        $chunks = array_chunk($commodityCodes, 50); // Process 50 codes at a time
+        foreach ($chunks as $chunk) {
+            $responses = Http::pool(function ($pool) use ($chunk) {
+                return collect($chunk)->map(function ($commodityCode) use ($pool) {
+                    $url = "https://www.msamb.com/ApmcDetail/DataGridBind?commodityCode={$commodityCode}";
+                    return $pool->withHeaders([
+                        'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+                        'X-Requested-With' => 'XMLHttpRequest',
+                        'Referer' => 'https://www.msamb.com/ApmcDetail/APMCPriceInformation',
+                        'Accept' => '*/*',
+                    ])->timeout(600)->get($url);
+                })->all();
+            });
+
+            foreach ($responses as $index => $response) {
+                $commodityCode = $chunk[$index];
+                $cacheKey = "bajarbhav_C{$commodityCode}";
+                $filename = public_path("assets/bajarbhav/crop/data_C{$commodityCode}.json");
+
+                $data = Cache::remember($cacheKey, 3600, function () use ($response, $commodityCode, $filename) {
+                    try {
+                        if ($response instanceof Response && $response->successful()) {
+                            $htmlContent = $response->body();
+                            //Log::info("Fetched data for commodityCode: {$commodityCode}, length: " . strlen($htmlContent));
+
+                            $newData = $this->parseHtmlToJson($htmlContent);
+
+                            if (!empty($newData)) {
+                                if (file_put_contents($filename, json_encode($newData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)) === false) {
+                                    //Log::error("Failed to write file: {$filename}");
+                                } else {
+                                    //Log::info("✅ File written for commodityCode: {$commodityCode} at {$filename}");
+                                }
+                                return $newData;
+                            } else {
+                                //Log::warning("⚠️ No parsed data for commodityCode: {$commodityCode}");
+                                return $this->loadOldData($filename);
+                            }
+                        } else {
+                            $status = $response instanceof Response ? $response->status() : 'No response';
+                            //Log::warning("API call failed for commodityCode: {$commodityCode}, status: {$status}");
+                            return $this->loadOldData($filename);
+                        }
+                    } catch (ConnectException $e) {
+                        //Log::error("Connection error for commodityCode: {$commodityCode}: {$e->getMessage()}");
+                        return $this->loadOldData($filename);
+                    } catch (Throwable $e) {
+                        //Log::error("Error for commodityCode: {$commodityCode}: {$e->getMessage()}");
+                        return $this->loadOldData($filename);
+                    }
+                });
+
+                $results[$commodityCode] = $data;
+            }
+        }
+
+        return response()->json([
+            'status' => 'success',
+            'message' => 'Data fetched and stored for all commodities',
+        ]);
+    }
+
+    //District city wise Crop Bajarbhav data
+    public function fetchCityBajarbhav()
+    {
+        $cityCodes = array_keys($this->cityDisplayNames);
+        $results = [];
+
+        // Process in chunks to avoid overwhelming the server
+        $chunks = array_chunk($cityCodes, 50); // Process 50 codes at a time
+        foreach ($chunks as $chunk) {
+            $responses = Http::pool(function ($pool) use ($chunk) {
+                return collect($chunk)->map(function ($cityCode) use ($pool) {
+
+                    $url = "https://www.msamb.com/ApmcDetail/GetArrivalPriceInfoByCommodityWise?commodityCode=null&apmcCode={$cityCode}";
+                    return $pool->withHeaders([
+                        'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+                        'X-Requested-With' => 'XMLHttpRequest',
+                        'Referer' => 'https://www.msamb.com/ApmcDetail/APMCPriceInformation',
+                        'Accept' => '*/*',
+                    ])->timeout(600)->get($url);
+                })->all();
+            });
+
+            foreach ($responses as $index => $response) {
+                $cityCode = $chunk[$index];
+                $cacheKey = "bajarbhav_C{$cityCode}";
+                $filename = public_path("assets/bajarbhav/city/data_C{$cityCode}.json");
+
+                $data = Cache::remember($cacheKey, 3600, function () use ($response, $cityCode, $filename) {
+                    try {
+                        if ($response instanceof Response && $response->successful()) {
+                            $htmlContent = $response->body();
+                            //Log::info("Fetched data for cityCode: {$cityCode}, length: " . strlen($htmlContent));
+
+                            $newData = $this->parseHtmlToJson($htmlContent);
+
+                            if (!empty($newData)) {
+                                if (file_put_contents($filename, json_encode($newData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)) === false) {
+                                    //Log::error("Failed to write file: {$filename}");
+                                } else {
+                                    //Log::info("✅ File written for cityCode: {$cityCode} at {$filename}");
+                                }
+                                return $newData;
+                            } else {
+                                //Log::warning("⚠️ No parsed data for cityCode: {$cityCode}");
+                                return $this->loadOldData($filename);
+                            }
+                        } else {
+                            $status = $response instanceof Response ? $response->status() : 'No response';
+                            //Log::warning("API call failed for cityCode: {$cityCode}, status: {$status}");
+                            return $this->loadOldData($filename);
+                        }
+                    } catch (ConnectException $e) {
+                        //Log::error("Connection error for cityCode: {$cityCode}: {$e->getMessage()}");
+                        return $this->loadOldData($filename);
+                    } catch (Throwable $e) {
+                        //Log::error("Error for cityCode: {$cityCode}: {$e->getMessage()}");
+                        return $this->loadOldData($filename);
+                    }
+                });
+
+                $results[$cityCode] = $data;
+            }
+        }
+
+        return response()->json([
+            'status' => 'success',
+            'message' => 'Data fetched and stored for all cities',
+        ]);
+    }
+
+    //Bajar Samiti wise Crop Bajarbhav data
+    public function fetchBajarSamitiBajarbhav()
+    {
+        $bajarSamitiCodes = array_keys($this->bajarSamitiDisplayNames);
+        $results = [];
+
+        // Process in chunks to avoid overwhelming the server
+        $chunks = array_chunk($bajarSamitiCodes, 50); // Process 50 codes at a time
+        foreach ($chunks as $chunk) {
+            $responses = Http::pool(function ($pool) use ($chunk) {
+                return collect($chunk)->map(function ($bajarSamitiCode) use ($pool) {
+
+                    $url = "https://www.msamb.com/ApmcDetail/DataGridBind?commodityCode=null&apmcCode={$bajarSamitiCode}";
+                    return $pool->withHeaders([
+                        'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+                        'X-Requested-With' => 'XMLHttpRequest',
+                        'Referer' => 'https://www.msamb.com/ApmcDetail/APMCPriceInformation',
+                        'Accept' => '*/*',
+                    ])->timeout(600)->get($url);
+                })->all();
+            });
+
+            foreach ($responses as $index => $response) {
+                $bajarSamitiCode = $chunk[$index];
+                $cacheKey = "bajarbhav_C{$bajarSamitiCode}";
+                $filename = public_path("assets/bajarbhav/bajarsamiti/data_C{$bajarSamitiCode}.json");
+
+                $data = Cache::remember($cacheKey, 3600, function () use ($response, $bajarSamitiCode, $filename) {
+                    try {
+                        if ($response instanceof Response && $response->successful()) {
+                            $htmlContent = $response->body();
+                            //Log::info("Fetched data for bajarSamitiCode: {$bajarSamitiCode}, length: " . strlen($htmlContent));
+
+                            $newData = $this->parseHtmlToJson($htmlContent);
+
+                            if (!empty($newData)) {
+                                if (file_put_contents($filename, json_encode($newData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)) === false) {
+                                    //Log::error("Failed to write file: {$filename}");
+                                } else {
+                                    //Log::info("✅ File written for bajarSamitiCode: {$bajarSamitiCode} at {$filename}");
+                                }
+                                return $newData;
+                            } else {
+                                //Log::warning("⚠️ No parsed data for bajarSamitiCode: {$bajarSamitiCode}");
+                                return $this->loadOldData($filename);
+                            }
+                        } else {
+                            $status = $response instanceof Response ? $response->status() : 'No response';
+                            //Log::warning("API call failed for bajarSamitiCode: {$bajarSamitiCode}, status: {$status}");
+                            return $this->loadOldData($filename);
+                        }
+                    } catch (ConnectException $e) {
+                        //Log::error("Connection error for bajarSamitiCode: {$bajarSamitiCode}: {$e->getMessage()}");
+                        return $this->loadOldData($filename);
+                    } catch (Throwable $e) {
+                        //Log::error("Error for bajarSamitiCode: {$bajarSamitiCode}: {$e->getMessage()}");
+                        return $this->loadOldData($filename);
+                    }
+                });
+
+                $results[$bajarSamitiCode] = $data;
+            }
+        }
+
+        return response()->json([
+            'status' => 'success',
+            'message' => 'Data fetched and stored for all bajar samitis',
+        ]);
+    }
+
+    private function parseHtmlToJson($htmlContent)
+    {
+        $parsedData = [];
+        $currentDate = null;
+
+        // Create a new DOMDocument object
+        $dom = new \DOMDocument();
+        @$dom->loadHTML('<?xml encoding="UTF-8">' . $htmlContent, LIBXML_NOWARNING | LIBXML_NOERROR);
+
+        // Create a new DOMXPath object
+        $xpath = new \DOMXPath($dom);
+
+        // Get all <tr> elements
+        $rows = $xpath->query('//tr');
+
+        //Log::info("Parsing HTML - found " . $rows->length . " rows");
+
+        foreach ($rows as $row) {
+            $cols = $xpath->query('./td', $row);
+
+            if ($cols->length === 1) {
+                $firstCol = $cols->item(0);
+                if ($firstCol->hasAttribute('colspan') && $firstCol->getAttribute('colspan') === '7') {
+                    $dateStr = trim($firstCol->textContent);
+                    try {
+                        $currentDate = Carbon::createFromFormat('d/m/Y', $dateStr)->format('Y-m-d');
+                        //Log::info("Parsed date: {$dateStr} -> {$currentDate}");
+                    } catch (\Exception $e) {
+                        //Log::error("Date parsing failed for '{$dateStr}': {$e->getMessage()}");
+                        $currentDate = null;
+                    }
+                    continue;
+                }
+            }
+
+            if ($cols->length === 7 && $currentDate) {
+                $parsedData[] = [
+                    'date' => $currentDate,
+                    'apmc_name' => trim($cols->item(0)->textContent ?? ''),
+                    'variety' => trim($cols->item(1)->textContent ?? ''),
+                    'unit' => trim($cols->item(2)->textContent ?? ''),
+                    'min_price' => trim($cols->item(3)->textContent ?? ''),
+                    'max_price' => trim($cols->item(4)->textContent ?? ''),
+                    'modal_price' => trim($cols->item(5)->textContent ?? ''),
+                    'avg_price' => trim($cols->item(6)->textContent ?? '')
+                ];
+            }
+        }
+
+        //Log::info("Parsed " . count($parsedData) . " valid data rows");
+
+        return $parsedData;
+    }
+
+    private function loadOldData($filename)
+    {
+        if (file_exists($filename)) {
+            $data = json_decode(file_get_contents($filename), true);
+            //Log::info("Loaded old data from {$filename}");
+            return is_array($data) ? $data : [];
+        }
+        //Log::warning("No old data found for {$filename}");
+        return [];
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पलूस",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "104",
+        "max_price": "2000",
+        "modal_price": "9000",
+        "avg_price": "6000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "खामगाव",
+        "variety": "---",
+        "unit": "नग",
+        "min_price": "14",
+        "max_price": "5000",
+        "modal_price": "7500",
+        "avg_price": "6250"
+    }
+]

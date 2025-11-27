@@ -1,0 +1,192 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "11750",
+        "max_price": "250",
+        "modal_price": "1575",
+        "avg_price": "1000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "बाजरी",
+        "variety": "८२०३",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "1925",
+        "modal_price": "2375",
+        "avg_price": "1925"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "एस.बी ११",
+        "unit": "क्विंटल",
+        "min_price": "35",
+        "max_price": "5111",
+        "modal_price": "5600",
+        "avg_price": "5500"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "13050",
+        "max_price": "300",
+        "modal_price": "1600",
+        "avg_price": "1100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बाजरी",
+        "variety": "८२०३",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "2100",
+        "modal_price": "2311",
+        "avg_price": "2200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "5051",
+        "modal_price": "5051",
+        "avg_price": "5051"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "एस.बी ११",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "2911",
+        "modal_price": "5657",
+        "avg_price": "4551"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "10500",
+        "max_price": "800",
+        "modal_price": "1575",
+        "avg_price": "1250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बाजरी",
+        "variety": "८२०३",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "2391",
+        "modal_price": "2391",
+        "avg_price": "2391"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "5300",
+        "modal_price": "5400",
+        "avg_price": "5300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "एस.बी ११",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "2400",
+        "modal_price": "5601",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मटकी",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "5700",
+        "modal_price": "5700",
+        "avg_price": "5700"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कांदा",
+        "variety": "उन्हाळी",
+        "unit": "क्विंटल",
+        "min_price": "11800",
+        "max_price": "800",
+        "modal_price": "1580",
+        "avg_price": "1250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "21",
+        "max_price": "4601",
+        "modal_price": "5115",
+        "avg_price": "4601"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "एस.बी ११",
+        "unit": "क्विंटल",
+        "min_price": "55",
+        "max_price": "3900",
+        "modal_price": "5651",
+        "avg_price": "4600"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "बाजरी",
+        "variety": "८२०३",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "1851",
+        "modal_price": "1886",
+        "avg_price": "1851"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हरभरा",
+        "variety": "चाफा",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "5151",
+        "modal_price": "5151",
+        "avg_price": "5151"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "भुईमुग शेंग (सुकी)",
+        "variety": "एस.बी ११",
+        "unit": "क्विंटल",
+        "min_price": "45",
+        "max_price": "3300",
+        "modal_price": "5555",
+        "avg_price": "5000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "गहू",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "2506",
+        "modal_price": "3000",
+        "avg_price": "2506"
+    }
+]

@@ -1,0 +1,5012 @@
+[
+    {
+        "date": "2025-07-03",
+        "apmc_name": "लासलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "250",
+        "max_price": "3600",
+        "modal_price": "4363",
+        "avg_price": "4280"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "लासलगाव - विंचूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "156",
+        "max_price": "3000",
+        "modal_price": "4500",
+        "avg_price": "4350"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "माजलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "71",
+        "max_price": "4150",
+        "modal_price": "4311",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "राहूरी -वांबोरी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3800",
+        "modal_price": "3800",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सिल्लोड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कारंजा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1300",
+        "max_price": "4000",
+        "modal_price": "4375",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "तुळजापूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "60",
+        "max_price": "4200",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मोर्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "380",
+        "max_price": "4000",
+        "modal_price": "4180",
+        "avg_price": "4090"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "धुळे",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3650",
+        "modal_price": "3795",
+        "avg_price": "3795"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पिंपळगाव(ब) - पालखेड",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "98",
+        "max_price": "3301",
+        "modal_price": "4521",
+        "avg_price": "4375"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "अमरावती",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1788",
+        "max_price": "4050",
+        "modal_price": "4260",
+        "avg_price": "4155"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "343",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4175"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "कोपरगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "67",
+        "max_price": "3501",
+        "modal_price": "4285",
+        "avg_price": "4221"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मेहकर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "360",
+        "max_price": "3800",
+        "modal_price": "4295",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "92",
+        "max_price": "3501",
+        "modal_price": "4311",
+        "avg_price": "4280"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "लातूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4423",
+        "max_price": "3700",
+        "modal_price": "4360",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "जालना",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "695",
+        "max_price": "3600",
+        "modal_price": "4250",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "अकोला",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "925",
+        "max_price": "4000",
+        "modal_price": "4375",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मालेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "2601",
+        "modal_price": "4390",
+        "avg_price": "4071"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "चिखली",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3850",
+        "modal_price": "4300",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "हिंगणघाट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "942",
+        "max_price": "3000",
+        "modal_price": "4380",
+        "avg_price": "3250"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बीड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "44",
+        "max_price": "4200",
+        "modal_price": "4250",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "उमरेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "597",
+        "max_price": "4000",
+        "modal_price": "4340",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "धामणगाव -रेल्वे",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "610",
+        "max_price": "3800",
+        "modal_price": "4450",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "वर्धा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "4100",
+        "modal_price": "4700",
+        "avg_price": "4550"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुर्तीजापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "330",
+        "max_price": "4010",
+        "modal_price": "4290",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "दिग्रस",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "3955",
+        "modal_price": "4370",
+        "avg_price": "4120"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "वणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "103",
+        "max_price": "3795",
+        "modal_price": "4150",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "जामखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "3700",
+        "modal_price": "3900",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "गेवराई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "3960",
+        "modal_price": "4150",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "परतूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "4000",
+        "modal_price": "4125",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "गंगाखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "4300",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "देउळगाव राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "3000",
+        "modal_price": "4100",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "निलंगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "89",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "212",
+        "max_price": "4001",
+        "modal_price": "4281",
+        "avg_price": "4141"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "मुरुम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "98",
+        "max_price": "4175",
+        "modal_price": "4200",
+        "avg_price": "4188"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "उमरगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3950",
+        "modal_price": "4000",
+        "avg_price": "3990"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सेनगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "60",
+        "max_price": "3800",
+        "modal_price": "4100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "पुर्णा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "4220",
+        "modal_price": "4220",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "चांदूर-रल्वे.",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "46",
+        "max_price": "4200",
+        "modal_price": "4370",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "नादगाव खांडेश्वर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "24",
+        "max_price": "4050",
+        "modal_price": "4300",
+        "avg_price": "4175"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "बुलढाणा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "40",
+        "max_price": "4000",
+        "modal_price": "4250",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "काटोल",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "97",
+        "max_price": "3500",
+        "modal_price": "4150",
+        "avg_price": "3850"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "सिंदी(सेलू)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "3850",
+        "modal_price": "4260",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-03",
+        "apmc_name": "देवणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4280",
+        "modal_price": "4280",
+        "avg_price": "4280"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "येवला",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "3001",
+        "modal_price": "4200",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "लासलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "319",
+        "max_price": "3000",
+        "modal_price": "4355",
+        "avg_price": "4275"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "लासलगाव - विंचूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "336",
+        "max_price": "3000",
+        "modal_price": "4373",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "बार्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "माजलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "52",
+        "max_price": "3751",
+        "modal_price": "4280",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "उदगीर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2476",
+        "max_price": "4230",
+        "modal_price": "4300",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कारंजा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1200",
+        "max_price": "4010",
+        "modal_price": "4320",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "अचलपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "268",
+        "max_price": "3900",
+        "modal_price": "4100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "श्रीरामपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "4000",
+        "modal_price": "4100",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "परळी-वैजनाथ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "91",
+        "max_price": "4001",
+        "modal_price": "4331",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "लोहा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4100",
+        "modal_price": "4261",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मानोरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "94",
+        "max_price": "3200",
+        "modal_price": "4350",
+        "avg_price": "3990"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "4200",
+        "modal_price": "4272",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "तुळजापूर",
+        "variety": "डॅमेज",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "4200",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पिंपळगाव(ब) - पालखेड",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "136",
+        "max_price": "2500",
+        "modal_price": "4351",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "4100",
+        "modal_price": "4315",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "अमरावती",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1857",
+        "max_price": "4050",
+        "modal_price": "4245",
+        "avg_price": "4147"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "229",
+        "max_price": "3800",
+        "modal_price": "4321",
+        "avg_price": "4190"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हिंगोली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "700",
+        "max_price": "3800",
+        "modal_price": "4315",
+        "avg_price": "4057"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कोपरगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "66",
+        "max_price": "3500",
+        "modal_price": "4280",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मेहकर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "420",
+        "max_price": "3800",
+        "modal_price": "4270",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "4012",
+        "modal_price": "4311",
+        "avg_price": "4260"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "लातूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2724",
+        "max_price": "4095",
+        "modal_price": "4340",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "जालना",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "680",
+        "max_price": "3600",
+        "modal_price": "4250",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "अकोला",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "967",
+        "max_price": "4055",
+        "modal_price": "4395",
+        "avg_price": "4330"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "यवतमाळ",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "189",
+        "max_price": "4000",
+        "modal_price": "4330",
+        "avg_price": "4165"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "आर्वी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "3500",
+        "modal_price": "4210",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "चिखली",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "380",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हिंगणघाट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1066",
+        "max_price": "2900",
+        "modal_price": "4285",
+        "avg_price": "3150"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "वाशीम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "900",
+        "max_price": "3810",
+        "modal_price": "4320",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "वाशीम - अनसींग",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "4050",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "वर्धा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "3800",
+        "modal_price": "4100",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "भोकर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4025",
+        "modal_price": "4025",
+        "avg_price": "4025"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "हिंगोली- खानेगाव नाका",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "143",
+        "max_price": "3800",
+        "modal_price": "4100",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुर्तीजापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "250",
+        "max_price": "4020",
+        "modal_price": "4300",
+        "avg_price": "4160"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "खामगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1517",
+        "max_price": "3800",
+        "modal_price": "4350",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मलकापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "176",
+        "max_price": "3490",
+        "modal_price": "4300",
+        "avg_price": "4240"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "दिग्रस",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "4000",
+        "modal_price": "4310",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "वणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "47",
+        "max_price": "4005",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सावनेर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "24",
+        "max_price": "3700",
+        "modal_price": "4087",
+        "avg_price": "3975"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "पिंपळगाव(ब) - औरंगपूर भेंडाळी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "4201",
+        "modal_price": "4201",
+        "avg_price": "4201"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "गेवराई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "3780",
+        "modal_price": "4166",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "गंगाखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "18",
+        "max_price": "4300",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "चांदूर बझार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "366",
+        "max_price": "3500",
+        "modal_price": "4210",
+        "avg_price": "3815"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "दर्यापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3600",
+        "modal_price": "4215",
+        "avg_price": "4130"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "वरूड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "315",
+        "max_price": "3300",
+        "modal_price": "4250",
+        "avg_price": "4134"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "देउळगाव राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "3800",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "लोणार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "315",
+        "max_price": "4050",
+        "modal_price": "4250",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "आंबेजोबाई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "55",
+        "max_price": "4041",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "निलंगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "118",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "490",
+        "max_price": "3845",
+        "modal_price": "4291",
+        "avg_price": "4068"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "152",
+        "max_price": "4100",
+        "modal_price": "4370",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मुरुम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "72",
+        "max_price": "4126",
+        "modal_price": "4221",
+        "avg_price": "4193"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "उमरगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "3990",
+        "modal_price": "3990",
+        "avg_price": "3990"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सेनगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "67",
+        "max_price": "3800",
+        "modal_price": "4100",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मंगरुळपीर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "780",
+        "max_price": "4000",
+        "modal_price": "4360",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "मंगळूरपीर - शेलूबाजार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "370",
+        "max_price": "4000",
+        "modal_price": "4345",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "चांदूर-रल्वे.",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "74",
+        "max_price": "4000",
+        "modal_price": "4400",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नादगाव खांडेश्वर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "83",
+        "max_price": "4050",
+        "modal_price": "4250",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "शेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "3950",
+        "modal_price": "4150",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सिंदखेड राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "36",
+        "max_price": "3700",
+        "modal_price": "4300",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "नेर परसोपंत",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "101",
+        "max_price": "2100",
+        "modal_price": "4330",
+        "avg_price": "3992"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "उमरखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "उमरखेड-डांकी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "110",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "राजूरा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "काटोल",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "95",
+        "max_price": "3400",
+        "modal_price": "4161",
+        "avg_price": "3850"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "आष्टी- कारंजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "109",
+        "max_price": "3900",
+        "modal_price": "4205",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सिंदी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "3856",
+        "modal_price": "4280",
+        "avg_price": "4205"
+    },
+    {
+        "date": "2025-07-02",
+        "apmc_name": "सिंदी(सेलू)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "52",
+        "max_price": "3850",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "4100",
+        "modal_price": "4200",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "लासलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "547",
+        "max_price": "3600",
+        "modal_price": "4370",
+        "avg_price": "4311"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "लासलगाव - विंचूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3000",
+        "modal_price": "4416",
+        "avg_price": "4350"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बार्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "130",
+        "max_price": "3700",
+        "modal_price": "4350",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नांदेड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "99",
+        "max_price": "3900",
+        "modal_price": "4260",
+        "avg_price": "4235"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "माजलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "94",
+        "max_price": "3850",
+        "modal_price": "4251",
+        "avg_price": "4151"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नंदूरबार",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "राहूरी -वांबोरी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "3301",
+        "modal_price": "3901",
+        "avg_price": "3500"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सिल्लोड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "उदगीर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2137",
+        "max_price": "4100",
+        "modal_price": "4270",
+        "avg_price": "4185"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कारंजा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1700",
+        "max_price": "4005",
+        "modal_price": "4380",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "परळी-वैजनाथ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "108",
+        "max_price": "4201",
+        "modal_price": "4331",
+        "avg_price": "4275"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "तुळजापूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "65",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मानोरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "169",
+        "max_price": "4126",
+        "modal_price": "4400",
+        "avg_price": "4279"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4221",
+        "modal_price": "4221",
+        "avg_price": "4221"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "धुळे",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3980",
+        "modal_price": "3980",
+        "avg_price": "3980"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पिंपळगाव(ब) - पालखेड",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "182",
+        "max_price": "2500",
+        "modal_price": "4400",
+        "avg_price": "4350"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4325",
+        "modal_price": "4325",
+        "avg_price": "4325"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "अमरावती",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1527",
+        "max_price": "4050",
+        "modal_price": "4290",
+        "avg_price": "4170"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जळगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "186",
+        "max_price": "4100",
+        "modal_price": "4125",
+        "avg_price": "4125"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "226",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4175"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "राहूरी",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कोपरगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "83",
+        "max_price": "2500",
+        "modal_price": "4290",
+        "avg_price": "4230"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "अंबड (वडी गोद्री)",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "2800",
+        "modal_price": "4275",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मेहकर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "390",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "शिरुर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "3852",
+        "modal_price": "4315",
+        "avg_price": "4270"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बारामती",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "75",
+        "max_price": "3752",
+        "modal_price": "4240",
+        "avg_price": "4151"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "लातूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5351",
+        "max_price": "3801",
+        "modal_price": "4340",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "लातूर -मुरुड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "53",
+        "max_price": "3500",
+        "modal_price": "4300",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जालना",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "742",
+        "max_price": "3450",
+        "modal_price": "4275",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "अकोला",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1100",
+        "max_price": "4000",
+        "modal_price": "4340",
+        "avg_price": "4240"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "यवतमाळ",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "132",
+        "max_price": "4000",
+        "modal_price": "4295",
+        "avg_price": "4147"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "चोपडा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "3701",
+        "modal_price": "3701",
+        "avg_price": "3701"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "अकोट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "190",
+        "max_price": "3450",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "आर्वी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "140",
+        "max_price": "3500",
+        "modal_price": "4200",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "चिखली",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "400",
+        "max_price": "3700",
+        "modal_price": "4300",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "हिंगणघाट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "734",
+        "max_price": "2900",
+        "modal_price": "4355",
+        "avg_price": "3100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बीड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "4200",
+        "modal_price": "4250",
+        "avg_price": "4217"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "वाशीम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1800",
+        "max_price": "3820",
+        "modal_price": "4330",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "वाशीम - अनसींग",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "4050",
+        "modal_price": "4300",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "धामणगाव -रेल्वे",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "473",
+        "max_price": "3880",
+        "modal_price": "4445",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "वर्धा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "54",
+        "max_price": "4050",
+        "modal_price": "4500",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "भोकर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "4065",
+        "modal_price": "4065",
+        "avg_price": "4065"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जिंतूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुर्तीजापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "4015",
+        "modal_price": "4270",
+        "avg_price": "4145"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "खामगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1005",
+        "max_price": "3775",
+        "modal_price": "4350",
+        "avg_price": "4062"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मलकापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "3555",
+        "modal_price": "4325",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "वणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "3150",
+        "modal_price": "4255",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सावनेर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "3576",
+        "modal_price": "4200",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "जामखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "3600",
+        "modal_price": "4000",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "पिंपळगाव(ब) - औरंगपूर भेंडाळी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "गेवराई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "48",
+        "max_price": "4000",
+        "modal_price": "4171",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "गंगाखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "4300",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मनवत",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "4144",
+        "modal_price": "4316",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "चांदूर बझार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "390",
+        "max_price": "3500",
+        "modal_price": "4200",
+        "avg_price": "4060"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "दर्यापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3400",
+        "modal_price": "4285",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "देउळगाव राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3950",
+        "modal_price": "4100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "लोणार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "297",
+        "max_price": "4050",
+        "modal_price": "4250",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नांदगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "2900",
+        "modal_price": "4215",
+        "avg_price": "4215"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "आंबेजोबाई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "110",
+        "max_price": "4000",
+        "modal_price": "4321",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "चाकूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "4051",
+        "modal_price": "4160",
+        "avg_price": "4111"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "843",
+        "max_price": "3901",
+        "modal_price": "4301",
+        "avg_price": "4101"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "235",
+        "max_price": "4100",
+        "modal_price": "4425",
+        "avg_price": "4331"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मुरुम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "90",
+        "max_price": "3900",
+        "modal_price": "4223",
+        "avg_price": "4164"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "उमरगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3600",
+        "modal_price": "3880",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सेनगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "63",
+        "max_price": "3850",
+        "modal_price": "4100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मंगरुळपीर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "612",
+        "max_price": "3750",
+        "modal_price": "4355",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "मंगळूरपीर - शेलूबाजार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "576",
+        "max_price": "4000",
+        "modal_price": "4375",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "चांदूर-रल्वे.",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "61",
+        "max_price": "3950",
+        "modal_price": "4400",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नादगाव खांडेश्वर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "3950",
+        "modal_price": "4200",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "शेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "22",
+        "max_price": "3355",
+        "modal_price": "4250",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सिंदखेड राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "43",
+        "max_price": "3700",
+        "modal_price": "4300",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "नेर परसोपंत",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "98",
+        "max_price": "3875",
+        "modal_price": "4310",
+        "avg_price": "4181"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "उमरखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "बाभुळगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "155",
+        "max_price": "3800",
+        "modal_price": "4420",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "काटोल",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "85",
+        "max_price": "3700",
+        "modal_price": "4100",
+        "avg_price": "3850"
+    },
+    {
+        "date": "2025-07-01",
+        "apmc_name": "सिंदी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "61",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4160"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "4100",
+        "modal_price": "4150",
+        "avg_price": "4125"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "येवला",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "4099",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "लासलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "125",
+        "max_price": "2425",
+        "modal_price": "2836",
+        "avg_price": "2600"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "लासलगाव - विंचूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "228",
+        "max_price": "3000",
+        "modal_price": "4401",
+        "avg_price": "4350"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बार्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "191",
+        "max_price": "4200",
+        "modal_price": "4300",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नांदेड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "29",
+        "max_price": "4300",
+        "modal_price": "4300",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "माजलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "253",
+        "max_price": "3950",
+        "modal_price": "4275",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "चंद्रपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "4185",
+        "modal_price": "4185",
+        "avg_price": "4185"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सिन्नर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "93",
+        "max_price": "4090",
+        "modal_price": "4295",
+        "avg_price": "4260"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सिल्लोड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "4000",
+        "modal_price": "4150",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अचलपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "262",
+        "max_price": "3800",
+        "modal_price": "4200",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "श्रीरामपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "3800",
+        "modal_price": "4100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "परळी-वैजनाथ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "128",
+        "max_price": "4200",
+        "modal_price": "4357",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "लोहा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "29",
+        "max_price": "3800",
+        "modal_price": "4250",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "तुळजापूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "75",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मानोरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "72",
+        "max_price": "3900",
+        "modal_price": "4366",
+        "avg_price": "3944"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मोर्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3600",
+        "modal_price": "4250",
+        "avg_price": "3925"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "पिंपळगाव(ब) - पालखेड",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "284",
+        "max_price": "1200",
+        "modal_price": "4381",
+        "avg_price": "4320"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "51",
+        "max_price": "4200",
+        "modal_price": "4340",
+        "avg_price": "4315"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अमरावती",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "2352",
+        "max_price": "4050",
+        "modal_price": "4250",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मनमाड",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "3176",
+        "modal_price": "4260",
+        "avg_price": "4137"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हिंगोली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "600",
+        "max_price": "3800",
+        "modal_price": "4370",
+        "avg_price": "4085"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कोपरगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "4200",
+        "modal_price": "4270",
+        "avg_price": "4222"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अंबड (वडी गोद्री)",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "3300",
+        "modal_price": "4200",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मेहकर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "510",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कंधार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "74",
+        "max_price": "3901",
+        "modal_price": "4328",
+        "avg_price": "4290"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "लातूर -मुरुड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "431",
+        "max_price": "3900",
+        "modal_price": "4275",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "धर्माबाद",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "140",
+        "max_price": "4050",
+        "modal_price": "4390",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "जालना",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1022",
+        "max_price": "3000",
+        "modal_price": "4300",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अकोला",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "818",
+        "max_price": "3965",
+        "modal_price": "4355",
+        "avg_price": "4295"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "यवतमाळ",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "102",
+        "max_price": "4100",
+        "modal_price": "4270",
+        "avg_price": "4185"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "अकोट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "3600",
+        "modal_price": "4155",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "आर्वी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "3500",
+        "modal_price": "4240",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "चिखली",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "490",
+        "max_price": "3680",
+        "modal_price": "4360",
+        "avg_price": "4020"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हिंगणघाट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "933",
+        "max_price": "3000",
+        "modal_price": "4330",
+        "avg_price": "3300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "वाशीम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1200",
+        "max_price": "3900",
+        "modal_price": "4325",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "वाशीम - अनसींग",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "4050",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "वर्धा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "भोकर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4050",
+        "modal_price": "4050",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "हिंगोली- खानेगाव नाका",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "134",
+        "max_price": "3800",
+        "modal_price": "4150",
+        "avg_price": "3975"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "जिंतूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुर्तीजापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "160",
+        "max_price": "4015",
+        "modal_price": "4280",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "खामगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1169",
+        "max_price": "3750",
+        "modal_price": "4400",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मलकापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "302",
+        "max_price": "3505",
+        "modal_price": "4365",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "वणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "43",
+        "max_price": "4130",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सावनेर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "4220",
+        "modal_price": "4290",
+        "avg_price": "4260"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "जामखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "3800",
+        "modal_price": "4000",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "शिरपूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गेवराई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4100",
+        "modal_price": "4161",
+        "avg_price": "4130"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "गंगाखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "21",
+        "max_price": "4300",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "चांदूर बझार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "265",
+        "max_price": "3500",
+        "modal_price": "4250",
+        "avg_price": "4110"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "दर्यापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3500",
+        "modal_price": "4300",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "देउळगाव राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4000",
+        "modal_price": "4100",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नांदगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "4235",
+        "modal_price": "4244",
+        "avg_price": "4244"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "आंबेजोबाई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "75",
+        "max_price": "4200",
+        "modal_price": "4281",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "किल्ले धारुर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "4000",
+        "modal_price": "4260",
+        "avg_price": "4169"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "चाकूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "4101",
+        "modal_price": "4211",
+        "avg_price": "4183"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "184",
+        "max_price": "4001",
+        "modal_price": "4275",
+        "avg_price": "4138"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "4000",
+        "modal_price": "4425",
+        "avg_price": "4375"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "164",
+        "max_price": "3800",
+        "modal_price": "4440",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मुरुम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4171",
+        "modal_price": "4171",
+        "avg_price": "4171"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "उमरगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3800",
+        "modal_price": "4001",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सेनगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "65",
+        "max_price": "3850",
+        "modal_price": "4150",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मंगरुळपीर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "617",
+        "max_price": "3875",
+        "modal_price": "4350",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "मंगळूरपीर - शेलूबाजार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "580",
+        "max_price": "3940",
+        "modal_price": "4370",
+        "avg_price": "4245"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "चांदूर-रल्वे.",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "38",
+        "max_price": "4225",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नादगाव खांडेश्वर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "78",
+        "max_price": "3965",
+        "modal_price": "4225",
+        "avg_price": "4095"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नांदूरा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "175",
+        "max_price": "3700",
+        "modal_price": "4190",
+        "avg_price": "4190"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "शेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "3800",
+        "modal_price": "4250",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सिंदखेड राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "63",
+        "max_price": "3700",
+        "modal_price": "4300",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "नेर परसोपंत",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "171",
+        "max_price": "2400",
+        "modal_price": "4320",
+        "avg_price": "3988"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "उमरखेड-डांकी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "3850",
+        "modal_price": "3950",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "बाभुळगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "335",
+        "max_price": "3750",
+        "modal_price": "4455",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "काटोल",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "3700",
+        "modal_price": "4200",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "आष्टी- कारंजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "206",
+        "max_price": "4000",
+        "modal_price": "4205",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-30",
+        "apmc_name": "सिंदी(सेलू)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "82",
+        "max_price": "3850",
+        "modal_price": "4275",
+        "avg_price": "4180"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "सिल्लोड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "उदगीर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2592",
+        "max_price": "4275",
+        "modal_price": "4335",
+        "avg_price": "4305"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "कंधार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4000",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "शिरुर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "4200",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "पैठण",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "3736",
+        "modal_price": "3736",
+        "avg_price": "3736"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "अजनगाव सुर्जी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "3600",
+        "modal_price": "4000",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "वरूड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "143",
+        "max_price": "3725",
+        "modal_price": "4400",
+        "avg_price": "4133"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "बाळापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "151",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "भिवापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "काटोल",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "110",
+        "max_price": "3500",
+        "modal_price": "4240",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-29",
+        "apmc_name": "देवणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "4251",
+        "modal_price": "4251",
+        "avg_price": "4251"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "येवला",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "3900",
+        "modal_price": "4240",
+        "avg_price": "4231"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बार्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "172",
+        "max_price": "4000",
+        "modal_price": "4250",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नांदेड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "4200",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "माजलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "298",
+        "max_price": "4000",
+        "modal_price": "4306",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "उदगीर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "2558",
+        "max_price": "4190",
+        "modal_price": "4340",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "लासूर स्टेशन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "4050",
+        "modal_price": "4100",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "परळी-वैजनाथ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "240",
+        "max_price": "4200",
+        "modal_price": "4341",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "रिसोड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1512",
+        "max_price": "4000",
+        "modal_price": "4330",
+        "avg_price": "4165"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कन्न्ड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3900",
+        "modal_price": "3900",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "वैजापूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4040",
+        "modal_price": "4040",
+        "avg_price": "4040"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "लोहा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "4160",
+        "modal_price": "4350",
+        "avg_price": "4301"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4100",
+        "modal_price": "4272",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "तुळजापूर",
+        "variety": "डॅमेज",
+        "unit": "क्विंटल",
+        "min_price": "26",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "धुळे",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "17",
+        "max_price": "4055",
+        "modal_price": "4055",
+        "avg_price": "4055"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "4300",
+        "modal_price": "4320",
+        "avg_price": "4305"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "अमरावती",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1533",
+        "max_price": "4050",
+        "modal_price": "4260",
+        "avg_price": "4155"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "जळगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "238",
+        "max_price": "3800",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कोपरगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "105",
+        "max_price": "3900",
+        "modal_price": "4284",
+        "avg_price": "4142"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "शिरुर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "74",
+        "max_price": "3799",
+        "modal_price": "4325",
+        "avg_price": "4275"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "पातूर",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "79",
+        "max_price": "3800",
+        "modal_price": "4200",
+        "avg_price": "4092"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "लातूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "9073",
+        "max_price": "4150",
+        "modal_price": "4380",
+        "avg_price": "4230"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "लातूर -मुरुड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "172",
+        "max_price": "4000",
+        "modal_price": "4261",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "जालना",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "773",
+        "max_price": "3400",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "अकोला",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1218",
+        "max_price": "4000",
+        "modal_price": "4355",
+        "avg_price": "4285"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "परभणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "135",
+        "max_price": "4200",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "आर्वी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "56",
+        "max_price": "3500",
+        "modal_price": "4240",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "चिखली",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "429",
+        "max_price": "3650",
+        "modal_price": "4351",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हिंगणघाट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "788",
+        "max_price": "2900",
+        "modal_price": "4315",
+        "avg_price": "3150"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "वाशीम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2400",
+        "max_price": "3900",
+        "modal_price": "4325",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "वाशीम - अनसींग",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "4000",
+        "modal_price": "4250",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "उमरेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "381",
+        "max_price": "4000",
+        "modal_price": "4400",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सिल्लोड- भराडी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "4100",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भोकरदन",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "13",
+        "max_price": "4100",
+        "modal_price": "4250",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "भोकर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3850",
+        "modal_price": "3900",
+        "avg_price": "3875"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "हिंगोली- खानेगाव नाका",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "96",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मुर्तीजापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "250",
+        "max_price": "4005",
+        "modal_price": "4270",
+        "avg_price": "4140"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "खामगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1459",
+        "max_price": "3550",
+        "modal_price": "4350",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मलकापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "138",
+        "max_price": "3675",
+        "modal_price": "4300",
+        "avg_price": "4240"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "जामखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3800",
+        "modal_price": "4000",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गेवराई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "3300",
+        "modal_price": "4181",
+        "avg_price": "4181"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "गंगाखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "4300",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "दर्यापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3400",
+        "modal_price": "4300",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "देउळगाव राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "3800",
+        "modal_price": "4200",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "लोणार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "160",
+        "max_price": "4050",
+        "modal_price": "4271",
+        "avg_price": "4160"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "वरोरा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "3850",
+        "modal_price": "4050",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "आंबेजोबाई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "220",
+        "max_price": "3950",
+        "modal_price": "4316",
+        "avg_price": "4275"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "निलंगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "180",
+        "max_price": "4100",
+        "modal_price": "4273",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "चाकूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "4152",
+        "modal_price": "4201",
+        "avg_price": "4181"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "217",
+        "max_price": "4000",
+        "modal_price": "4300",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "33",
+        "max_price": "3700",
+        "modal_price": "4350",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "मुरुम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "55",
+        "max_price": "4050",
+        "modal_price": "4230",
+        "avg_price": "4174"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सेनगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "72",
+        "max_price": "3850",
+        "modal_price": "4100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नादगाव खांडेश्वर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "17",
+        "max_price": "3975",
+        "modal_price": "4155",
+        "avg_price": "4065"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नांदूरा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "250",
+        "max_price": "3500",
+        "modal_price": "4164",
+        "avg_price": "4164"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "शेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "3500",
+        "modal_price": "4200",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सिंदखेड राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "36",
+        "max_price": "3700",
+        "modal_price": "4300",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "नेर परसोपंत",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "84",
+        "max_price": "1855",
+        "modal_price": "4240",
+        "avg_price": "3547"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "उमरखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "बाभुळगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "122",
+        "max_price": "3700",
+        "modal_price": "4430",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "सिंदी(सेलू)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "49",
+        "max_price": "3850",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-28",
+        "apmc_name": "देवणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "4140",
+        "modal_price": "4250",
+        "avg_price": "4195"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "44",
+        "max_price": "4000",
+        "modal_price": "4150",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "लासलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "443",
+        "max_price": "3900",
+        "modal_price": "4380",
+        "avg_price": "4320"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "बार्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "174",
+        "max_price": "4200",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नांदेड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "3900",
+        "modal_price": "4275",
+        "avg_price": "4095"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "चंद्रपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "4150",
+        "modal_price": "4225",
+        "avg_price": "4185"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सिन्नर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "3000",
+        "modal_price": "4265",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "उदगीर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3623",
+        "max_price": "4251",
+        "modal_price": "4340",
+        "avg_price": "4295"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कारंजा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1500",
+        "max_price": "4050",
+        "modal_price": "4360",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अचलपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "3600",
+        "modal_price": "4300",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "परळी-वैजनाथ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "86",
+        "max_price": "4250",
+        "modal_price": "4341",
+        "avg_price": "4321"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "रिसोड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1440",
+        "max_price": "3855",
+        "modal_price": "4335",
+        "avg_price": "4095"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "वैजापूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3825",
+        "modal_price": "3825",
+        "avg_price": "3825"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "तुळजापूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "60",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मानोरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "63",
+        "max_price": "3850",
+        "modal_price": "4360",
+        "avg_price": "4105"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "4150",
+        "modal_price": "4258",
+        "avg_price": "4205"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "धुळे",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "3895",
+        "modal_price": "4755",
+        "avg_price": "4070"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पिंपळगाव(ब) - पालखेड",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "244",
+        "max_price": "2000",
+        "modal_price": "4401",
+        "avg_price": "4315"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "46",
+        "max_price": "3800",
+        "modal_price": "4345",
+        "avg_price": "4305"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अमरावती",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1356",
+        "max_price": "4050",
+        "modal_price": "4275",
+        "avg_price": "4162"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "नग",
+        "min_price": "267",
+        "max_price": "3800",
+        "modal_price": "4240",
+        "avg_price": "4130"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हिंगोली",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "800",
+        "max_price": "3800",
+        "modal_price": "4370",
+        "avg_price": "4085"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कोपरगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "68",
+        "max_price": "3350",
+        "modal_price": "4275",
+        "avg_price": "4080"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मेहकर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "520",
+        "max_price": "3800",
+        "modal_price": "4350",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "ताडकळस",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "153",
+        "max_price": "4150",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "शिरुर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "3500",
+        "modal_price": "4250",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "83",
+        "max_price": "3699",
+        "modal_price": "4308",
+        "avg_price": "4281"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पातूर",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "3800",
+        "modal_price": "4200",
+        "avg_price": "4128"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "लातूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "10914",
+        "max_price": "3831",
+        "modal_price": "4381",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "लातूर -मुरुड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "51",
+        "max_price": "4000",
+        "modal_price": "4301",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "धर्माबाद",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "140",
+        "max_price": "3810",
+        "modal_price": "4390",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "जालना",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "615",
+        "max_price": "3200",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अकोला",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "956",
+        "max_price": "4000",
+        "modal_price": "4450",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "यवतमाळ",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "119",
+        "max_price": "4130",
+        "modal_price": "4310",
+        "avg_price": "4220"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "परभणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "85",
+        "max_price": "4200",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "आर्वी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "105",
+        "max_price": "3500",
+        "modal_price": "4240",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "चिखली",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "394",
+        "max_price": "3700",
+        "modal_price": "4600",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हिंगणघाट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "876",
+        "max_price": "2900",
+        "modal_price": "4306",
+        "avg_price": "3150"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "बीड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "4251",
+        "modal_price": "4251",
+        "avg_price": "4251"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "वाशीम - अनसींग",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "4050",
+        "modal_price": "4300",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "धामणगाव -रेल्वे",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "511",
+        "max_price": "3645",
+        "modal_price": "4445",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "वर्धा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "41",
+        "max_price": "3800",
+        "modal_price": "4250",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "हिंगोली- खानेगाव नाका",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "162",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "जिंतूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "48",
+        "max_price": "4100",
+        "modal_price": "4300",
+        "avg_price": "4225"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुर्तीजापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "250",
+        "max_price": "4025",
+        "modal_price": "4305",
+        "avg_price": "4165"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "अजनगाव सुर्जी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "3700",
+        "modal_price": "4110",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "खामगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1265",
+        "max_price": "3600",
+        "modal_price": "4350",
+        "avg_price": "3975"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मलकापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "290",
+        "max_price": "3400",
+        "modal_price": "4310",
+        "avg_price": "3915"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "दिग्रस",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "105",
+        "max_price": "4000",
+        "modal_price": "4350",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "वणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "127",
+        "max_price": "4270",
+        "modal_price": "4300",
+        "avg_price": "4280"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सावनेर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "3475",
+        "modal_price": "4050",
+        "avg_price": "3850"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "जामखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "3700",
+        "modal_price": "3900",
+        "avg_price": "3800"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "पिंपळगाव(ब) - औरंगपूर भेंडाळी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4050",
+        "modal_price": "4050",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "गेवराई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "28",
+        "max_price": "4100",
+        "modal_price": "4231",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "गंगाखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "22",
+        "max_price": "4300",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "चांदूर बझार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "275",
+        "max_price": "3500",
+        "modal_price": "4200",
+        "avg_price": "4030"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "दर्यापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3450",
+        "modal_price": "4250",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "वरूड-राजूरा बझार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "25",
+        "max_price": "4085",
+        "modal_price": "4190",
+        "avg_price": "4143"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "देउळगाव राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "3900",
+        "modal_price": "4101",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "लोणार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "210",
+        "max_price": "4100",
+        "modal_price": "4320",
+        "avg_price": "4210"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "आंबेजोबाई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "135",
+        "max_price": "3960",
+        "modal_price": "4321",
+        "avg_price": "4275"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "किल्ले धारुर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "12",
+        "max_price": "3706",
+        "modal_price": "4241",
+        "avg_price": "4241"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "निलंगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "4000",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "चाकूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "21",
+        "max_price": "4068",
+        "modal_price": "4301",
+        "avg_price": "4169"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "683",
+        "max_price": "4100",
+        "modal_price": "4320",
+        "avg_price": "4210"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "156",
+        "max_price": "3800",
+        "modal_price": "4375",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मुरुम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "6",
+        "max_price": "4151",
+        "modal_price": "4211",
+        "avg_price": "4191"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "उमरगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "आखाडाबाळापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "32",
+        "max_price": "4500",
+        "modal_price": "4700",
+        "avg_price": "4600"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सेनगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "61",
+        "max_price": "3900",
+        "modal_price": "4200",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मंगरुळपीर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "456",
+        "max_price": "3700",
+        "modal_price": "4355",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "मंगळूरपीर - शेलूबाजार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "679",
+        "max_price": "4000",
+        "modal_price": "4335",
+        "avg_price": "4230"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "चांदूर-रल्वे.",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "27",
+        "max_price": "4150",
+        "modal_price": "4300",
+        "avg_price": "4265"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नादगाव खांडेश्वर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "7",
+        "max_price": "3845",
+        "modal_price": "4075",
+        "avg_price": "3960"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नांदूरा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "130",
+        "max_price": "3700",
+        "modal_price": "4156",
+        "avg_price": "4156"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "शेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "11",
+        "max_price": "3900",
+        "modal_price": "4280",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सिंदखेड राजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "39",
+        "max_price": "3600",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "नेर परसोपंत",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "175",
+        "max_price": "2590",
+        "modal_price": "4345",
+        "avg_price": "3918"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "उमरखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "110",
+        "max_price": "3850",
+        "modal_price": "3950",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "उमरखेड-डांकी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "120",
+        "max_price": "3850",
+        "modal_price": "3950",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "बाभुळगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "161",
+        "max_price": "4100",
+        "modal_price": "4360",
+        "avg_price": "4260"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "काटोल",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "100",
+        "max_price": "3640",
+        "modal_price": "4250",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "सिंदी(सेलू)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "3850",
+        "modal_price": "4250",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "जाफराबाद",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "4000",
+        "modal_price": "4200",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-27",
+        "apmc_name": "देवणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4226",
+        "modal_price": "4245",
+        "avg_price": "4235"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अहिल्यानगर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "30",
+        "max_price": "4100",
+        "modal_price": "4200",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "येवला",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3500",
+        "modal_price": "4150",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लासलगाव",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "283",
+        "max_price": "3601",
+        "modal_price": "4375",
+        "avg_price": "4315"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लासलगाव - विंचूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "168",
+        "max_price": "3000",
+        "modal_price": "4350",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "बार्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "68",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नांदेड",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "64",
+        "max_price": "4250",
+        "modal_price": "4300",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सिन्नर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "16",
+        "max_price": "4235",
+        "modal_price": "4280",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "उदगीर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3285",
+        "max_price": "4275",
+        "modal_price": "4310",
+        "avg_price": "4292"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कारंजा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "800",
+        "max_price": "3950",
+        "modal_price": "4380",
+        "avg_price": "4260"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अचलपूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1985",
+        "max_price": "3600",
+        "modal_price": "4325",
+        "avg_price": "3963"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लासूर स्टेशन",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "22",
+        "max_price": "3700",
+        "modal_price": "4100",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "परळी-वैजनाथ",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "200",
+        "max_price": "4325",
+        "modal_price": "4354",
+        "avg_price": "4350"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "चांदूर बझार",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "5010",
+        "modal_price": "5010",
+        "avg_price": "5010"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "वैजापूर",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "4055",
+        "modal_price": "4055",
+        "avg_price": "4055"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मानोरा",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "3900",
+        "modal_price": "3900",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मोर्शी",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "304",
+        "max_price": "4000",
+        "modal_price": "4100",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "राहता",
+        "variety": "---",
+        "unit": "क्विंटल",
+        "min_price": "3",
+        "max_price": "4256",
+        "modal_price": "4261",
+        "avg_price": "4258"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "तुळजापूर",
+        "variety": "डॅमेज",
+        "unit": "क्विंटल",
+        "min_price": "51",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "पिंपळगाव(ब) - पालखेड",
+        "variety": "हायब्रीड",
+        "unit": "क्विंटल",
+        "min_price": "57",
+        "max_price": "1500",
+        "modal_price": "4395",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सोलापूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "4305",
+        "modal_price": "4350",
+        "avg_price": "4320"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अमरावती",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "1110",
+        "max_price": "4050",
+        "modal_price": "4275",
+        "avg_price": "4162"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नागपूर",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "281",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4175"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कोपरगाव",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "147",
+        "max_price": "3900",
+        "modal_price": "4301",
+        "avg_price": "4221"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अंबड (वडी गोद्री)",
+        "variety": "लोकल",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "3571",
+        "modal_price": "4100",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कंधार",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "9",
+        "max_price": "4000",
+        "modal_price": "4400",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "परांडा",
+        "variety": "नं. १",
+        "unit": "क्विंटल",
+        "min_price": "10",
+        "max_price": "2700",
+        "modal_price": "3500",
+        "avg_price": "2700"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "शिरुर",
+        "variety": "नं. २",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4250",
+        "modal_price": "4250",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लासलगाव - निफाड",
+        "variety": "पांढरा",
+        "unit": "क्विंटल",
+        "min_price": "52",
+        "max_price": "3333",
+        "modal_price": "4330",
+        "avg_price": "4290"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लातूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "8641",
+        "max_price": "3870",
+        "modal_price": "4450",
+        "avg_price": "4320"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "लातूर -मुरुड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "23",
+        "max_price": "3900",
+        "modal_price": "4300",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "जालना",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "490",
+        "max_price": "3300",
+        "modal_price": "4250",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अकोला",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1066",
+        "max_price": "4000",
+        "modal_price": "4420",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "परभणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "105",
+        "max_price": "4200",
+        "modal_price": "4300",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मालेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "19",
+        "max_price": "4070",
+        "modal_price": "4090",
+        "avg_price": "4090"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "चोपडा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4000",
+        "modal_price": "4000",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "अकोट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "115",
+        "max_price": "3870",
+        "modal_price": "4170",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "चिखली",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "3500",
+        "modal_price": "4350",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "हिंगणघाट",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "927",
+        "max_price": "2900",
+        "modal_price": "4330",
+        "avg_price": "3150"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "बीड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "4200",
+        "modal_price": "4200",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "वाशीम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "900",
+        "max_price": "3800",
+        "modal_price": "4370",
+        "avg_price": "4000"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "वाशीम - अनसींग",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "300",
+        "max_price": "3800",
+        "modal_price": "4300",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "उमरेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "550",
+        "max_price": "4000",
+        "modal_price": "4330",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "वर्धा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "24",
+        "max_price": "3790",
+        "modal_price": "4500",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुर्तीजापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "150",
+        "max_price": "3975",
+        "modal_price": "4250",
+        "avg_price": "4115"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "खामगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "765",
+        "max_price": "3750",
+        "modal_price": "4400",
+        "avg_price": "4075"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सावनेर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "3650",
+        "modal_price": "4100",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "जामखेड",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "14",
+        "max_price": "3800",
+        "modal_price": "4000",
+        "avg_price": "3900"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "शिरपूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "2",
+        "max_price": "3997",
+        "modal_price": "3997",
+        "avg_price": "3997"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "गेवराई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "20",
+        "max_price": "3913",
+        "modal_price": "4227",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "चांदूर बझार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "390",
+        "max_price": "3500",
+        "modal_price": "4200",
+        "avg_price": "4114"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नांदगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "4",
+        "max_price": "4051",
+        "modal_price": "4051",
+        "avg_price": "4051"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "गंगापूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "4040",
+        "modal_price": "4040",
+        "avg_price": "4040"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "वैजापूर- शिऊर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3976",
+        "modal_price": "3976",
+        "avg_price": "3976"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "आंबेजोबाई",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "170",
+        "max_price": "3800",
+        "modal_price": "4335",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "निलंगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "107",
+        "max_price": "4100",
+        "modal_price": "4330",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "चाकूर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "15",
+        "max_price": "4120",
+        "modal_price": "4201",
+        "avg_price": "4159"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "औराद शहाजानी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "63",
+        "max_price": "3800",
+        "modal_price": "4301",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "कळंब (धाराशिव)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "190",
+        "max_price": "4001",
+        "modal_price": "4355",
+        "avg_price": "4280"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मुरुम",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "3491",
+        "modal_price": "3491",
+        "avg_price": "3491"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "उमरगा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "1",
+        "max_price": "3901",
+        "modal_price": "4060",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मंगरुळपीर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "218",
+        "max_price": "4100",
+        "modal_price": "4355",
+        "avg_price": "4250"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "मंगळूरपीर - शेलूबाजार",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "48",
+        "max_price": "4000",
+        "modal_price": "4290",
+        "avg_price": "4190"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "चांदूर-रल्वे.",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "51",
+        "max_price": "4150",
+        "modal_price": "4360",
+        "avg_price": "4300"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नादगाव खांडेश्वर",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "29",
+        "max_price": "4070",
+        "modal_price": "4250",
+        "avg_price": "4160"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नांदूरा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "50",
+        "max_price": "3709",
+        "modal_price": "4151",
+        "avg_price": "4151"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "शेगाव",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "8",
+        "max_price": "4100",
+        "modal_price": "4225",
+        "avg_price": "4150"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "नेर परसोपंत",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "38",
+        "max_price": "2750",
+        "modal_price": "4340",
+        "avg_price": "3778"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "उमरखेड-डांकी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "70",
+        "max_price": "3900",
+        "modal_price": "4000",
+        "avg_price": "3950"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "काटोल",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "60",
+        "max_price": "3700",
+        "modal_price": "4250",
+        "avg_price": "4050"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "आष्टी- कारंजा",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "158",
+        "max_price": "3800",
+        "modal_price": "4275",
+        "avg_price": "4100"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "सिंदी(सेलू)",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "85",
+        "max_price": "3850",
+        "modal_price": "4300",
+        "avg_price": "4200"
+    },
+    {
+        "date": "2025-06-26",
+        "apmc_name": "देवणी",
+        "variety": "पिवळा",
+        "unit": "क्विंटल",
+        "min_price": "5",
+        "max_price": "4170",
+        "modal_price": "4210",
+        "avg_price": "4190"
+    }
+]
